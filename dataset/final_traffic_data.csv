@@ -1,0 +1,1001 @@
+timestamp,date,hour,day_name,location_id,road_name,latitude,longitude,vehicle_count,car_count,motorcycle_count,bus_count,truck_count,average_speed,road_occupancy,weather_condition,traffic_density,congestion_level,predicted_congestion,predicted_congestion_level,vehicle_cluster,cluster_interpretation,anomaly_label,anomaly_score
+2026-05-01 00:00:00,2026-05-01,0,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,53,16,32,1,4,51.2,30.84,Clear,16.35,Low,16.29,Low,0,Light Traffic,Normal,0.1162
+2026-05-01 00:15:00,2026-05-01,0,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,48,12,29,2,5,36.96,29.38,Cloudy,14.1,Medium,14.25,Low,0,Mixed Traffic,Normal,0.0953
+2026-05-01 00:30:00,2026-05-01,0,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,36,10,19,1,6,51.14,24.08,Cloudy,8.67,Low,8.67,Low,0,Light Traffic,Normal,0.1203
+2026-05-01 00:45:00,2026-05-01,0,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,29,8,15,1,5,63.61,14.98,Clear,4.34,Low,4.38,Low,0,Light Traffic,Normal,0.0316
+2026-05-01 01:00:00,2026-05-01,1,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,49,12,28,2,7,41.05,24.22,Foggy,11.87,Medium,11.82,Low,0,Light Traffic,Normal,0.1098
+2026-05-01 01:15:00,2026-05-01,1,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,58,18,29,2,9,50.45,26.93,Clear,15.62,Low,15.81,Low,0,Light Traffic,Normal,0.118
+2026-05-01 01:30:00,2026-05-01,1,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,59,17,32,2,8,42.37,33.87,Cloudy,19.98,Medium,19.91,Low,0,Light Traffic,Normal,0.1244
+2026-05-01 01:45:00,2026-05-01,1,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,50,12,31,1,6,52.04,26.27,Clear,13.14,Low,13.31,Low,0,Light Traffic,Normal,0.1248
+2026-05-01 02:00:00,2026-05-01,2,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,26,7,16,0,3,52.62,8.79,Cloudy,2.29,Low,2.39,Low,0,Light Traffic,Normal,0.0216
+2026-05-01 02:15:00,2026-05-01,2,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,50,12,31,2,5,43.79,30.84,Foggy,15.42,Medium,15.39,Low,0,Light Traffic,Normal,0.1376
+2026-05-01 02:30:00,2026-05-01,2,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,58,14,35,1,8,48.23,24.68,Foggy,14.31,Low,14.08,Low,0,Light Traffic,Normal,0.1138
+2026-05-01 02:45:00,2026-05-01,2,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,66,18,33,2,13,43.75,43.45,Rainy,28.68,Medium,28.92,Low,0,Light Traffic,Normal,0.1136
+2026-05-01 03:00:00,2026-05-01,3,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,49,15,25,2,7,53.76,34.7,Cloudy,17.0,Low,17.34,Low,0,Light Traffic,Normal,0.0812
+2026-05-01 03:15:00,2026-05-01,3,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,41,12,23,1,5,47.1,21.28,Rainy,8.72,Low,8.76,Low,0,Light Traffic,Normal,0.1318
+2026-05-01 03:30:00,2026-05-01,3,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,37,10,23,1,3,44.8,16.61,Cloudy,6.15,Medium,6.23,Low,0,Light Traffic,Normal,0.1002
+2026-05-01 03:45:00,2026-05-01,3,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,58,16,29,1,12,46.16,33.87,Rainy,19.64,Low,19.5,Low,0,Light Traffic,Normal,0.1188
+2026-05-01 04:00:00,2026-05-01,4,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,41,12,25,2,2,56.8,21.23,Clear,8.7,Low,8.74,Low,0,Light Traffic,Normal,0.1169
+2026-05-01 04:15:00,2026-05-01,4,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,38,10,19,1,8,56.68,22.42,Clear,8.52,Low,8.38,Low,0,Light Traffic,Normal,0.1131
+2026-05-01 04:30:00,2026-05-01,4,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,43,11,24,1,7,45.31,26.15,Rainy,11.24,Low,11.26,Low,0,Light Traffic,Normal,0.1195
+2026-05-01 04:45:00,2026-05-01,4,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,51,15,27,2,7,45.28,27.96,Rainy,14.26,Low,14.15,Low,0,Light Traffic,Normal,0.1344
+2026-05-01 05:00:00,2026-05-01,5,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,86,21,46,3,16,37.39,44.48,Foggy,38.25,Medium,37.88,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1395
+2026-05-01 05:15:00,2026-05-01,5,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,85,28,46,2,9,43.61,41.38,Clear,35.17,Medium,35.55,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1141
+2026-05-01 05:30:00,2026-05-01,5,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,278,88,141,14,35,4.62,91.0,Clear,252.98,Severe,255.35,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0857
+2026-05-01 05:45:00,2026-05-01,5,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,122,31,70,6,15,22.54,64.95,Rainy,79.24,High,79.18,High,1,Motorcycle-Dominant Traffic,Normal,0.1142
+2026-05-01 06:00:00,2026-05-01,6,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,171,43,102,6,20,12.24,98.25,Rainy,168.01,Severe,167.88,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0667
+2026-05-01 06:15:00,2026-05-01,6,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,128,40,67,4,17,26.87,69.5,Cloudy,88.96,High,90.38,High,3,Motorcycle-Dominant Traffic,Normal,0.135
+2026-05-01 06:30:00,2026-05-01,6,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,161,49,100,6,6,19.83,87.82,Clear,141.39,Severe,141.12,Severe,1,Motorcycle-Dominant Traffic,Normal,0.099
+2026-05-01 06:45:00,2026-05-01,6,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,159,53,99,7,0,12.8,80.62,Rainy,128.19,Severe,128.23,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0566
+2026-05-01 07:00:00,2026-05-01,7,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,165,54,104,7,0,21.94,92.8,Cloudy,153.12,Severe,152.72,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0892
+2026-05-01 07:15:00,2026-05-01,7,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,184,47,92,8,37,20.46,100.0,Foggy,184.0,Severe,183.65,Severe,1,Motorcycle-Dominant Traffic,Normal,0.061
+2026-05-01 07:30:00,2026-05-01,7,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,114,31,69,3,11,33.13,67.18,Foggy,76.59,High,76.89,High,3,Motorcycle-Dominant Traffic,Normal,0.1415
+2026-05-01 07:45:00,2026-05-01,7,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,132,41,82,5,4,28.02,69.56,Cloudy,91.82,High,91.62,High,3,Motorcycle-Dominant Traffic,Normal,0.1308
+2026-05-01 08:00:00,2026-05-01,8,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,129,37,83,7,2,21.49,77.71,Rainy,100.25,High,100.11,High,1,Motorcycle-Dominant Traffic,Normal,0.1139
+2026-05-01 08:15:00,2026-05-01,8,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,166,51,95,6,14,18.0,87.94,Rainy,145.98,Severe,146.31,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0794
+2026-05-01 08:30:00,2026-05-01,8,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,151,50,93,8,0,27.43,80.49,Cloudy,121.54,High,121.29,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1011
+2026-05-01 08:45:00,2026-05-01,8,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,157,52,97,8,0,20.86,76.31,Cloudy,119.81,High,118.28,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0932
+2026-05-01 09:00:00,2026-05-01,9,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,141,43,74,8,16,27.18,81.48,Foggy,114.89,High,115.41,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1061
+2026-05-01 09:15:00,2026-05-01,9,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,141,43,72,8,18,21.98,72.62,Rainy,102.39,High,101.83,High,1,Motorcycle-Dominant Traffic,Normal,0.1114
+2026-05-01 09:30:00,2026-05-01,9,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,147,47,88,5,7,27.49,86.19,Rainy,126.7,Severe,126.4,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0882
+2026-05-01 09:45:00,2026-05-01,9,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,104,35,64,5,0,41.06,77.04,Clear,80.12,High,85.21,High,3,Motorcycle-Dominant Traffic,Normal,0.0415
+2026-05-01 10:00:00,2026-05-01,10,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,86,28,52,4,2,48.04,42.01,Clear,36.13,Medium,36.5,Medium,3,Motorcycle-Dominant Traffic,Normal,0.0917
+2026-05-01 10:15:00,2026-05-01,10,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,62,19,31,1,11,52.76,25.11,Foggy,15.57,Low,15.85,Low,0,Light Traffic,Normal,0.0867
+2026-05-01 10:30:00,2026-05-01,10,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,78,19,39,4,16,36.96,38.87,Clear,30.32,Medium,30.14,Low,3,Motorcycle-Dominant Traffic,Normal,0.1215
+2026-05-01 10:45:00,2026-05-01,10,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,95,31,54,2,8,30.33,53.86,Rainy,51.17,Medium,51.2,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1442
+2026-05-01 11:00:00,2026-05-01,11,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,110,34,63,5,8,28.89,61.19,Foggy,67.31,High,67.6,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1454
+2026-05-01 11:15:00,2026-05-01,11,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,88,28,48,2,10,33.83,48.32,Foggy,42.52,Medium,43.02,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1363
+2026-05-01 11:30:00,2026-05-01,11,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,325,108,176,11,30,4.12,99.62,Rainy,323.76,Severe,318.79,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.1388
+2026-05-01 11:45:00,2026-05-01,11,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,81,25,49,2,5,50.24,50.16,Cloudy,40.63,Medium,40.96,Medium,0,Motorcycle-Dominant Traffic,Normal,0.0662
+2026-05-01 12:00:00,2026-05-01,12,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,109,35,60,2,12,27.81,59.37,Rainy,64.71,High,64.49,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1368
+2026-05-01 12:15:00,2026-05-01,12,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,139,41,71,5,22,23.24,70.98,Foggy,98.66,High,98.41,High,1,Motorcycle-Dominant Traffic,Normal,0.1155
+2026-05-01 12:30:00,2026-05-01,12,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,223,76,125,4,18,11.2,96.15,Foggy,214.41,Severe,219.17,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0054
+2026-05-01 12:45:00,2026-05-01,12,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,116,36,72,3,5,33.8,61.44,Cloudy,71.27,Medium,71.5,High,3,Motorcycle-Dominant Traffic,Normal,0.1449
+2026-05-01 13:00:00,2026-05-01,13,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,111,34,71,3,3,29.71,58.59,Foggy,65.03,High,65.11,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1438
+2026-05-01 13:15:00,2026-05-01,13,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,139,47,80,4,8,31.37,74.11,Clear,103.01,High,102.61,High,3,Motorcycle-Dominant Traffic,Normal,0.1132
+2026-05-01 13:30:00,2026-05-01,13,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,117,29,73,6,9,30.78,61.89,Cloudy,72.41,Medium,72.51,High,3,Motorcycle-Dominant Traffic,Normal,0.1463
+2026-05-01 13:45:00,2026-05-01,13,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,106,33,64,5,4,35.75,62.04,Foggy,65.76,Medium,65.16,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1397
+2026-05-01 14:00:00,2026-05-01,14,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,75,24,45,4,2,44.01,32.73,Clear,24.55,Medium,24.03,Low,3,Motorcycle-Dominant Traffic,Normal,0.1038
+2026-05-01 14:15:00,2026-05-01,14,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,54,15,33,3,3,44.63,35.49,Foggy,19.16,Medium,19.1,Low,0,Light Traffic,Normal,0.1202
+2026-05-01 14:30:00,2026-05-01,14,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,107,36,55,4,12,35.5,56.83,Foggy,60.81,Medium,60.95,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1505
+2026-05-01 14:45:00,2026-05-01,14,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,117,33,74,2,8,29.05,64.35,Rainy,75.29,High,74.77,High,3,Motorcycle-Dominant Traffic,Normal,0.1438
+2026-05-01 15:00:00,2026-05-01,15,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,86,25,51,2,8,45.88,53.8,Clear,46.27,Medium,45.98,Medium,3,Motorcycle-Dominant Traffic,Normal,0.098
+2026-05-01 15:15:00,2026-05-01,15,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,104,34,63,5,2,30.95,53.29,Rainy,55.42,Medium,55.96,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1415
+2026-05-01 15:30:00,2026-05-01,15,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,70,23,39,2,6,44.79,41.96,Clear,29.37,Medium,29.42,Low,0,Motorcycle-Dominant Traffic,Normal,0.1206
+2026-05-01 15:45:00,2026-05-01,15,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,96,24,49,4,19,33.12,54.49,Foggy,52.31,Medium,51.76,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1485
+2026-05-01 16:00:00,2026-05-01,16,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,151,51,92,8,0,16.37,78.9,Foggy,119.14,High,119.83,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0879
+2026-05-01 16:15:00,2026-05-01,16,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,230,75,117,9,29,5.0,100.0,Rainy,230.0,Severe,224.34,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0232
+2026-05-01 16:30:00,2026-05-01,16,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,160,47,80,3,30,17.99,95.24,Cloudy,152.38,Severe,150.27,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0872
+2026-05-01 16:45:00,2026-05-01,16,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,162,56,95,5,6,27.26,87.99,Clear,142.54,Severe,142.06,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0799
+2026-05-01 17:00:00,2026-05-01,17,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,134,40,68,7,19,28.55,85.82,Cloudy,115.0,Severe,118.41,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0836
+2026-05-01 17:15:00,2026-05-01,17,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,184,54,111,8,11,14.49,100.0,Rainy,184.0,Severe,183.78,Severe,1,Motorcycle-Dominant Traffic,Normal,0.085
+2026-05-01 17:30:00,2026-05-01,17,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,170,45,92,6,27,19.27,99.61,Clear,169.34,Severe,167.16,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0688
+2026-05-01 17:45:00,2026-05-01,17,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,169,58,86,10,15,16.12,100.0,Rainy,169.0,Severe,168.31,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0704
+2026-05-01 18:00:00,2026-05-01,18,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,119,31,71,6,11,32.94,52.99,Clear,63.06,Medium,68.52,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1194
+2026-05-01 18:15:00,2026-05-01,18,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,231,79,129,12,11,5.0,100.0,Rainy,231.0,Severe,228.34,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0228
+2026-05-01 18:30:00,2026-05-01,18,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,113,37,71,5,0,39.67,49.41,Cloudy,55.83,Medium,56.66,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1059
+2026-05-01 18:45:00,2026-05-01,18,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,168,42,90,9,27,20.02,93.57,Rainy,157.2,Severe,157.75,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0813
+2026-05-01 19:00:00,2026-05-01,19,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,147,38,83,8,18,30.74,74.82,Clear,109.99,High,109.48,High,1,Motorcycle-Dominant Traffic,Normal,0.1
+2026-05-01 19:15:00,2026-05-01,19,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,203,63,121,6,13,9.58,52.99,Foggy,107.57,Severe,101.73,High,1,Motorcycle-Dominant Traffic,Anomaly,-0.0607
+2026-05-01 19:30:00,2026-05-01,19,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,198,66,114,8,10,12.96,100.0,Cloudy,198.0,Severe,199.26,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0509
+2026-05-01 19:45:00,2026-05-01,19,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,167,43,93,3,28,19.83,99.62,Foggy,166.37,Severe,166.51,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0697
+2026-05-01 20:00:00,2026-05-01,20,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,77,19,40,2,16,45.49,52.99,Cloudy,40.8,Medium,39.32,Medium,0,Motorcycle-Dominant Traffic,Normal,0.0855
+2026-05-01 20:15:00,2026-05-01,20,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,97,33,54,3,7,40.76,54.26,Foggy,52.63,Medium,52.49,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1315
+2026-05-01 20:30:00,2026-05-01,20,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,103,35,64,2,2,30.73,57.15,Cloudy,58.86,Medium,59.23,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1542
+2026-05-01 20:45:00,2026-05-01,20,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,90,26,48,5,11,36.96,49.55,Foggy,44.6,Medium,44.68,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1491
+2026-05-01 21:00:00,2026-05-01,21,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,64,16,32,1,15,45.68,30.05,Foggy,19.23,Low,18.75,Low,0,Light Traffic,Normal,0.114
+2026-05-01 21:15:00,2026-05-01,21,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,103,34,56,4,9,29.31,59.74,Foggy,61.53,High,61.38,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1435
+2026-05-01 21:30:00,2026-05-01,21,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,93,24,48,2,19,35.58,44.5,Cloudy,41.38,Medium,41.6,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1369
+2026-05-01 21:45:00,2026-05-01,21,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,77,23,42,3,9,42.95,43.85,Clear,33.76,Medium,33.74,Low,3,Motorcycle-Dominant Traffic,Normal,0.1322
+2026-05-01 22:00:00,2026-05-01,22,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,33,10,20,0,3,55.87,15.6,Clear,5.15,Low,5.04,Low,0,Light Traffic,Normal,0.1087
+2026-05-01 22:15:00,2026-05-01,22,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,29,9,16,1,3,61.33,14.87,Cloudy,4.31,Low,4.38,Low,0,Light Traffic,Normal,0.045
+2026-05-01 22:30:00,2026-05-01,22,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,51,15,29,1,6,50.5,35.95,Cloudy,18.33,Low,18.45,Low,0,Light Traffic,Normal,0.0899
+2026-05-01 22:45:00,2026-05-01,22,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,18,4,9,0,5,57.91,5.0,Clear,0.9,Low,0.96,Low,0,Light Traffic,Anomaly,-0.0412
+2026-05-01 23:00:00,2026-05-01,23,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,70,20,43,1,6,48.03,50.76,Cloudy,35.53,Medium,35.12,Medium,0,Motorcycle-Dominant Traffic,Normal,0.092
+2026-05-01 23:15:00,2026-05-01,23,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,59,17,36,1,5,46.75,25.86,Clear,15.26,Low,15.56,Low,0,Light Traffic,Normal,0.1166
+2026-05-01 23:30:00,2026-05-01,23,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,46,16,25,2,3,61.14,23.75,Clear,10.92,Low,11.0,Low,0,Light Traffic,Normal,0.0524
+2026-05-01 23:45:00,2026-05-01,23,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,41,11,21,1,8,49.38,18.46,Cloudy,7.57,Low,7.41,Low,0,Light Traffic,Normal,0.1185
+2026-05-02 00:00:00,2026-05-02,0,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,40,13,22,0,5,45.68,24.17,Foggy,9.67,Low,9.74,Low,0,Light Traffic,Normal,0.123
+2026-05-02 00:15:00,2026-05-02,0,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,40,13,25,1,1,54.0,17.33,Cloudy,6.93,Low,6.95,Low,0,Light Traffic,Normal,0.1091
+2026-05-02 00:30:00,2026-05-02,0,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,50,13,29,2,6,49.51,24.95,Foggy,12.48,Low,12.61,Low,0,Light Traffic,Normal,0.1282
+2026-05-02 00:45:00,2026-05-02,0,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,33,9,18,0,6,51.79,13.81,Foggy,4.56,Low,4.57,Low,0,Light Traffic,Normal,0.0978
+2026-05-02 01:00:00,2026-05-02,1,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,39,11,20,1,7,45.6,20.92,Cloudy,8.16,Low,8.16,Low,0,Light Traffic,Normal,0.127
+2026-05-02 01:15:00,2026-05-02,1,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,42,10,21,2,9,58.53,20.45,Clear,8.59,Low,8.61,Low,0,Light Traffic,Normal,0.0987
+2026-05-02 01:30:00,2026-05-02,1,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,47,14,28,1,4,40.73,17.26,Rainy,8.11,Medium,8.04,Low,0,Light Traffic,Normal,0.0761
+2026-05-02 01:45:00,2026-05-02,1,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,22,7,14,1,0,54.98,9.2,Foggy,2.02,Low,2.2,Low,0,Light Traffic,Normal,0.0122
+2026-05-02 02:00:00,2026-05-02,2,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,31,10,18,0,3,56.63,14.25,Clear,4.42,Low,4.49,Low,0,Light Traffic,Normal,0.0965
+2026-05-02 02:15:00,2026-05-02,2,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,54,14,28,2,10,52.66,40.38,Clear,21.81,Medium,22.69,Low,0,Light Traffic,Normal,0.0776
+2026-05-02 02:30:00,2026-05-02,2,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,47,15,26,1,5,43.95,52.99,Rainy,24.91,Medium,24.56,Low,0,Light Traffic,Normal,0.0673
+2026-05-02 02:45:00,2026-05-02,2,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,324,94,189,10,31,11.47,98.62,Cloudy,319.53,Severe,303.78,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.1303
+2026-05-02 03:00:00,2026-05-02,3,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,51,15,32,1,3,40.41,29.16,Cloudy,14.87,Medium,14.73,Low,0,Light Traffic,Normal,0.1229
+2026-05-02 03:15:00,2026-05-02,3,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,313,84,165,9,55,6.74,99.78,Foggy,312.31,Severe,305.13,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.1185
+2026-05-02 03:30:00,2026-05-02,3,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,48,13,25,1,9,47.99,52.99,Foggy,25.44,Medium,25.13,Low,0,Light Traffic,Normal,0.0414
+2026-05-02 03:45:00,2026-05-02,3,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,54,15,34,2,3,42.42,25.11,Rainy,13.56,Medium,13.98,Low,0,Light Traffic,Normal,0.1174
+2026-05-02 04:00:00,2026-05-02,4,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,26,8,13,1,4,57.01,21.37,Cloudy,5.56,Low,5.75,Low,0,Light Traffic,Normal,0.0666
+2026-05-02 04:15:00,2026-05-02,4,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,328,85,166,9,68,3.88,95.27,Foggy,312.49,Severe,310.44,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.1317
+2026-05-02 04:30:00,2026-05-02,4,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,50,15,26,2,7,52.28,52.99,Clear,26.5,Medium,25.72,Low,0,Light Traffic,Normal,0.0148
+2026-05-02 04:45:00,2026-05-02,4,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,48,16,30,2,0,54.92,27.79,Clear,13.34,Low,13.54,Low,0,Light Traffic,Normal,0.1116
+2026-05-02 05:00:00,2026-05-02,5,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,90,27,52,3,8,41.39,50.92,Cloudy,45.83,Medium,45.67,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1425
+2026-05-02 05:15:00,2026-05-02,5,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,93,27,59,2,5,35.97,57.14,Foggy,53.14,Medium,53.76,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1485
+2026-05-02 05:30:00,2026-05-02,5,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,48,13,24,2,9,53.12,30.93,Foggy,14.85,Low,14.91,Low,0,Light Traffic,Normal,0.1086
+2026-05-02 05:45:00,2026-05-02,5,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,64,18,40,2,4,36.96,52.99,Foggy,33.91,Medium,33.14,Low,0,Mixed Traffic,Normal,0.0997
+2026-05-02 06:00:00,2026-05-02,6,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,156,41,81,6,28,16.99,90.69,Cloudy,141.48,Severe,141.82,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0926
+2026-05-02 06:15:00,2026-05-02,6,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,94,28,52,4,10,40.42,52.99,Clear,49.81,Medium,50.36,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1362
+2026-05-02 06:30:00,2026-05-02,6,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,150,48,76,4,22,19.74,82.76,Rainy,124.14,High,124.0,Severe,1,Motorcycle-Dominant Traffic,Normal,0.104
+2026-05-02 06:45:00,2026-05-02,6,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,121,30,63,4,24,23.9,67.75,Rainy,81.98,High,81.97,High,3,Motorcycle-Dominant Traffic,Normal,0.1258
+2026-05-02 07:00:00,2026-05-02,7,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,107,31,61,3,12,38.27,53.56,Foggy,57.31,Medium,57.52,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1351
+2026-05-02 07:15:00,2026-05-02,7,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,136,45,71,7,13,22.37,71.67,Cloudy,97.47,High,97.68,High,1,Motorcycle-Dominant Traffic,Normal,0.123
+2026-05-02 07:30:00,2026-05-02,7,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,104,27,52,5,20,43.01,57.33,Cloudy,59.62,Medium,59.56,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1123
+2026-05-02 07:45:00,2026-05-02,7,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,152,41,81,7,23,24.9,86.89,Clear,132.07,Severe,131.09,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1064
+2026-05-02 08:00:00,2026-05-02,8,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,97,26,49,4,18,43.6,55.06,Rainy,53.41,Medium,53.38,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1197
+2026-05-02 08:15:00,2026-05-02,8,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,177,56,99,4,18,17.12,96.79,Foggy,171.32,Severe,171.47,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0737
+2026-05-02 08:30:00,2026-05-02,8,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,146,49,82,7,8,20.5,74.9,Cloudy,109.35,High,109.01,High,1,Motorcycle-Dominant Traffic,Normal,0.1036
+2026-05-02 08:45:00,2026-05-02,8,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,142,43,79,4,16,24.38,87.66,Clear,124.48,Severe,124.89,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1018
+2026-05-02 09:00:00,2026-05-02,9,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,103,35,56,5,7,46.04,62.08,Clear,63.94,Medium,64.02,Medium,3,Motorcycle-Dominant Traffic,Normal,0.0725
+2026-05-02 09:15:00,2026-05-02,9,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,135,39,83,2,11,32.48,66.45,Clear,89.71,High,87.88,High,3,Motorcycle-Dominant Traffic,Normal,0.1053
+2026-05-02 09:30:00,2026-05-02,9,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,131,43,68,7,13,29.22,66.34,Foggy,86.91,High,86.96,High,1,Motorcycle-Dominant Traffic,Normal,0.1311
+2026-05-02 09:45:00,2026-05-02,9,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,160,40,86,9,25,22.78,84.0,Cloudy,134.4,High,133.65,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1096
+2026-05-02 10:00:00,2026-05-02,10,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,356,117,223,16,0,4.18,92.36,Clear,328.8,Severe,312.44,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.1539
+2026-05-02 10:15:00,2026-05-02,10,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,103,27,61,5,10,31.89,50.82,Clear,52.34,Medium,53.25,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1398
+2026-05-02 10:30:00,2026-05-02,10,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,67,21,35,1,10,40.35,52.99,Rainy,35.5,Medium,34.89,Low,0,Light Traffic,Normal,0.1062
+2026-05-02 10:45:00,2026-05-02,10,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,80,22,44,2,12,38.1,49.71,Cloudy,39.77,Medium,39.99,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1381
+2026-05-02 11:00:00,2026-05-02,11,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,76,26,45,3,2,53.53,45.26,Cloudy,34.4,Medium,34.15,Low,0,Motorcycle-Dominant Traffic,Normal,0.0526
+2026-05-02 11:15:00,2026-05-02,11,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,78,23,39,3,13,44.1,39.82,Foggy,31.06,Medium,30.69,Low,3,Motorcycle-Dominant Traffic,Normal,0.1253
+2026-05-02 11:30:00,2026-05-02,11,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,119,34,71,3,11,34.33,68.61,Rainy,81.65,High,81.41,High,3,Motorcycle-Dominant Traffic,Normal,0.1356
+2026-05-02 11:45:00,2026-05-02,11,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,96,26,58,4,8,30.09,52.1,Rainy,50.02,Medium,50.15,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1423
+2026-05-02 12:00:00,2026-05-02,12,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,113,34,59,6,14,36.96,66.86,Clear,75.55,High,74.73,High,3,Motorcycle-Dominant Traffic,Normal,0.117
+2026-05-02 12:15:00,2026-05-02,12,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,79,25,47,4,3,44.97,35.58,Clear,28.11,Medium,27.08,Low,3,Motorcycle-Dominant Traffic,Normal,0.103
+2026-05-02 12:30:00,2026-05-02,12,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,124,38,65,7,14,31.83,71.12,Cloudy,88.19,High,88.17,High,1,Motorcycle-Dominant Traffic,Normal,0.1338
+2026-05-02 12:45:00,2026-05-02,12,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,126,42,80,4,0,26.11,69.04,Rainy,86.99,High,87.25,High,3,Motorcycle-Dominant Traffic,Normal,0.1368
+2026-05-02 13:00:00,2026-05-02,13,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,131,40,66,3,22,22.19,67.57,Rainy,88.52,High,87.45,High,1,Motorcycle-Dominant Traffic,Normal,0.116
+2026-05-02 13:15:00,2026-05-02,13,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,135,34,82,4,15,34.04,75.98,Cloudy,102.57,High,102.95,High,3,Motorcycle-Dominant Traffic,Normal,0.1009
+2026-05-02 13:30:00,2026-05-02,13,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,117,36,74,3,4,21.81,68.57,Rainy,80.23,High,79.83,High,3,Motorcycle-Dominant Traffic,Normal,0.1064
+2026-05-02 13:45:00,2026-05-02,13,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,110,38,68,3,1,29.43,68.16,Foggy,74.98,High,75.03,High,3,Motorcycle-Dominant Traffic,Normal,0.1243
+2026-05-02 14:00:00,2026-05-02,14,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,135,46,83,6,0,22.3,65.48,Rainy,88.4,High,87.18,High,1,Motorcycle-Dominant Traffic,Normal,0.0988
+2026-05-02 14:15:00,2026-05-02,14,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,63,17,38,1,7,43.87,30.41,Clear,19.16,Medium,18.75,Low,0,Light Traffic,Normal,0.1236
+2026-05-02 14:30:00,2026-05-02,14,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,94,23,47,5,19,30.43,42.55,Rainy,40.0,Medium,40.35,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1066
+2026-05-02 14:45:00,2026-05-02,14,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,85,23,51,4,7,44.69,46.15,Cloudy,39.23,Medium,38.99,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1191
+2026-05-02 15:00:00,2026-05-02,15,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,69,18,40,4,7,50.45,44.17,Clear,30.48,Medium,30.75,Low,0,Light Traffic,Normal,0.0828
+2026-05-02 15:15:00,2026-05-02,15,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,119,32,68,3,16,29.76,63.33,Cloudy,75.36,High,75.35,High,3,Motorcycle-Dominant Traffic,Normal,0.1441
+2026-05-02 15:30:00,2026-05-02,15,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,79,27,40,4,8,42.01,42.02,Rainy,33.2,Medium,33.17,Low,3,Motorcycle-Dominant Traffic,Normal,0.1289
+2026-05-02 15:45:00,2026-05-02,15,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,75,23,46,1,5,41.04,44.83,Cloudy,33.62,Medium,33.78,Low,0,Motorcycle-Dominant Traffic,Normal,0.1294
+2026-05-02 16:00:00,2026-05-02,16,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,134,41,78,3,12,22.44,72.63,Cloudy,97.32,High,97.69,High,3,Motorcycle-Dominant Traffic,Normal,0.1223
+2026-05-02 16:15:00,2026-05-02,16,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,151,51,78,8,14,22.39,85.56,Foggy,129.2,Severe,129.32,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1063
+2026-05-02 16:30:00,2026-05-02,16,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,133,38,68,4,23,39.79,78.31,Clear,104.15,High,104.34,High,3,Motorcycle-Dominant Traffic,Normal,0.0535
+2026-05-02 16:45:00,2026-05-02,16,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,185,47,106,5,27,10.68,100.0,Rainy,185.0,Severe,184.83,Severe,1,Motorcycle-Dominant Traffic,Normal,0.084
+2026-05-02 17:00:00,2026-05-02,17,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,125,38,71,6,10,38.5,76.06,Clear,95.08,High,96.24,High,3,Motorcycle-Dominant Traffic,Normal,0.0736
+2026-05-02 17:15:00,2026-05-02,17,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,200,55,116,11,18,9.36,100.0,Rainy,200.0,Severe,199.89,Severe,1,Motorcycle-Dominant Traffic,Normal,0.06
+2026-05-02 17:30:00,2026-05-02,17,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,189,60,114,8,7,11.78,100.0,Rainy,189.0,Severe,188.87,Severe,1,Motorcycle-Dominant Traffic,Normal,0.093
+2026-05-02 17:45:00,2026-05-02,17,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,171,57,108,3,3,15.58,95.73,Foggy,163.7,Severe,164.85,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0707
+2026-05-02 18:00:00,2026-05-02,18,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,190,63,99,10,18,8.23,100.0,Foggy,190.0,Severe,190.31,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0755
+2026-05-02 18:15:00,2026-05-02,18,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,153,47,83,9,14,21.31,52.99,Clear,81.07,High,82.63,High,1,Motorcycle-Dominant Traffic,Normal,0.0354
+2026-05-02 18:30:00,2026-05-02,18,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,178,46,109,8,15,29.15,100.0,Clear,178.0,Severe,177.24,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0254
+2026-05-02 18:45:00,2026-05-02,18,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,144,45,79,8,12,27.21,80.97,Clear,116.6,High,116.79,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1102
+2026-05-02 19:00:00,2026-05-02,19,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,145,44,73,4,24,21.64,78.15,Cloudy,113.32,High,112.88,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1176
+2026-05-02 19:15:00,2026-05-02,19,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,116,39,71,6,0,31.26,65.22,Cloudy,75.66,High,75.22,High,3,Motorcycle-Dominant Traffic,Normal,0.1439
+2026-05-02 19:30:00,2026-05-02,19,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,232,68,139,7,18,5.0,100.0,Rainy,232.0,Severe,225.23,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0244
+2026-05-02 19:45:00,2026-05-02,19,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,123,39,76,3,5,35.23,65.51,Clear,80.58,High,80.84,High,3,Motorcycle-Dominant Traffic,Normal,0.1283
+2026-05-02 20:00:00,2026-05-02,20,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,58,15,37,2,4,50.99,31.65,Cloudy,18.36,Low,18.69,Low,0,Light Traffic,Normal,0.1075
+2026-05-02 20:15:00,2026-05-02,20,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,87,25,51,2,9,43.07,49.55,Clear,43.11,Medium,43.14,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1306
+2026-05-02 20:30:00,2026-05-02,20,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,77,19,40,3,15,41.16,47.53,Foggy,36.6,Medium,36.48,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1265
+2026-05-02 20:45:00,2026-05-02,20,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,85,29,48,2,6,42.12,49.51,Cloudy,42.08,Medium,42.45,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1368
+2026-05-02 21:00:00,2026-05-02,21,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,90,28,55,2,5,41.29,56.25,Cloudy,50.62,Medium,50.31,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1289
+2026-05-02 21:15:00,2026-05-02,21,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,97,25,55,2,15,32.04,62.89,Foggy,61.0,Medium,61.02,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1315
+2026-05-02 21:30:00,2026-05-02,21,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,99,30,50,3,16,31.53,51.83,Cloudy,51.31,Medium,51.29,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1447
+2026-05-02 21:45:00,2026-05-02,21,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,92,23,52,2,15,34.19,38.99,Foggy,35.87,Medium,36.69,Medium,3,Motorcycle-Dominant Traffic,Normal,0.0995
+2026-05-02 22:00:00,2026-05-02,22,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,30,10,18,1,1,52.54,16.55,Rainy,4.96,Low,5.12,Low,0,Light Traffic,Normal,0.1079
+2026-05-02 22:15:00,2026-05-02,22,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,33,9,17,1,6,56.74,12.54,Clear,4.14,Low,3.94,Low,0,Light Traffic,Normal,0.0829
+2026-05-02 22:30:00,2026-05-02,22,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,48,12,28,1,7,56.51,22.29,Clear,10.7,Low,10.57,Low,0,Light Traffic,Normal,0.0928
+2026-05-02 22:45:00,2026-05-02,22,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,31,7,17,0,7,50.24,15.82,Cloudy,4.9,Low,4.95,Low,0,Light Traffic,Normal,0.106
+2026-05-02 23:00:00,2026-05-02,23,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,67,18,41,1,7,44.81,38.6,Foggy,25.86,Medium,25.87,Low,0,Light Traffic,Normal,0.12
+2026-05-02 23:15:00,2026-05-02,23,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,34,8,20,1,5,48.74,15.65,Rainy,5.32,Low,5.11,Low,0,Light Traffic,Normal,0.109
+2026-05-02 23:30:00,2026-05-02,23,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,50,16,30,1,3,51.07,28.35,Cloudy,14.18,Low,14.19,Low,0,Light Traffic,Normal,0.1296
+2026-05-02 23:45:00,2026-05-02,23,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,61,18,37,2,4,53.69,34.88,Cloudy,21.28,Low,21.56,Low,0,Light Traffic,Normal,0.089
+2026-05-03 00:00:00,2026-05-03,0,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,29,7,18,1,3,47.81,10.95,Rainy,3.18,Low,3.08,Low,0,Light Traffic,Normal,0.0548
+2026-05-03 00:15:00,2026-05-03,0,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,28,8,17,1,2,64.91,17.74,Clear,4.97,Low,4.93,Low,0,Light Traffic,Normal,0.0306
+2026-05-03 00:30:00,2026-05-03,0,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,44,13,23,1,7,46.48,29.9,Rainy,13.16,Low,12.83,Low,0,Light Traffic,Normal,0.1233
+2026-05-03 00:45:00,2026-05-03,0,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,47,15,28,1,3,42.35,18.79,Foggy,8.83,Medium,8.88,Low,0,Light Traffic,Normal,0.0922
+2026-05-03 01:00:00,2026-05-03,1,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,55,17,31,2,5,47.44,22.39,Rainy,12.31,Low,12.15,Low,0,Light Traffic,Normal,0.1032
+2026-05-03 01:15:00,2026-05-03,1,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,40,13,23,1,3,60.91,29.12,Clear,11.65,Low,11.64,Low,0,Light Traffic,Normal,0.0423
+2026-05-03 01:30:00,2026-05-03,1,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,29,9,17,0,3,56.33,17.73,Cloudy,5.14,Low,5.05,Low,0,Light Traffic,Normal,0.1052
+2026-05-03 01:45:00,2026-05-03,1,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,49,13,28,2,6,47.84,12.98,Rainy,6.36,Low,8.24,Low,0,Light Traffic,Normal,0.0789
+2026-05-03 02:00:00,2026-05-03,2,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,61,17,31,3,10,42.79,37.93,Clear,23.14,Medium,23.25,Low,0,Light Traffic,Normal,0.1222
+2026-05-03 02:15:00,2026-05-03,2,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,33,10,18,0,5,36.96,20.72,Foggy,6.84,Medium,6.87,Low,0,Mixed Traffic,Normal,0.0442
+2026-05-03 02:30:00,2026-05-03,2,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,44,14,24,1,5,40.87,27.69,Rainy,12.18,Medium,12.24,Low,0,Light Traffic,Normal,0.1132
+2026-05-03 02:45:00,2026-05-03,2,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,13,3,7,0,3,60.46,17.61,Clear,2.29,Low,3.04,Low,0,Light Traffic,Anomaly,-0.0152
+2026-05-03 03:00:00,2026-05-03,3,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,36,12,21,1,2,54.72,18.37,Cloudy,6.61,Low,6.69,Low,0,Light Traffic,Normal,0.1139
+2026-05-03 03:15:00,2026-05-03,3,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,28,8,14,1,5,60.93,15.15,Clear,4.24,Low,4.17,Low,0,Light Traffic,Normal,0.0503
+2026-05-03 03:30:00,2026-05-03,3,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,30,7,15,1,7,49.51,17.36,Clear,5.21,Low,5.19,Low,0,Light Traffic,Normal,0.1069
+2026-05-03 03:45:00,2026-05-03,3,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,50,14,31,2,3,57.85,27.08,Cloudy,13.54,Low,13.49,Low,0,Light Traffic,Normal,0.0825
+2026-05-03 04:00:00,2026-05-03,4,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,53,16,28,3,6,41.59,30.83,Foggy,16.34,Medium,16.37,Low,0,Light Traffic,Normal,0.1249
+2026-05-03 04:15:00,2026-05-03,4,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,51,17,28,1,5,47.73,30.81,Rainy,15.71,Low,15.53,Low,0,Light Traffic,Normal,0.1276
+2026-05-03 04:30:00,2026-05-03,4,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,54,16,31,2,5,44.96,27.76,Rainy,14.99,Medium,14.7,Low,0,Light Traffic,Normal,0.1332
+2026-05-03 04:45:00,2026-05-03,4,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,60,19,38,2,1,44.55,27.62,Rainy,16.57,Medium,16.51,Low,0,Light Traffic,Normal,0.1258
+2026-05-03 05:00:00,2026-05-03,5,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,125,39,64,7,15,21.16,74.47,Rainy,93.09,High,94.19,High,1,Motorcycle-Dominant Traffic,Normal,0.1115
+2026-05-03 05:15:00,2026-05-03,5,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,71,21,43,3,4,38.27,44.26,Rainy,31.42,Medium,31.62,Low,3,Motorcycle-Dominant Traffic,Normal,0.1224
+2026-05-03 05:30:00,2026-05-03,5,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,308,86,178,10,34,11.62,90.78,Rainy,279.6,Severe,285.97,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0934
+2026-05-03 05:45:00,2026-05-03,5,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,86,26,44,1,15,36.11,40.58,Cloudy,34.9,Medium,35.52,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1195
+2026-05-03 06:00:00,2026-05-03,6,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,166,48,92,4,22,14.11,85.76,Foggy,142.36,Severe,142.95,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0624
+2026-05-03 06:15:00,2026-05-03,6,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,93,28,47,4,14,36.0,62.93,Cloudy,58.52,Medium,58.8,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1247
+2026-05-03 06:30:00,2026-05-03,6,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,181,53,104,3,21,10.45,94.77,Rainy,171.53,Severe,173.58,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0569
+2026-05-03 06:45:00,2026-05-03,6,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,77,23,43,3,8,51.29,45.6,Clear,35.11,Medium,34.94,Low,0,Motorcycle-Dominant Traffic,Normal,0.0738
+2026-05-03 07:00:00,2026-05-03,7,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,147,37,94,4,12,23.66,80.4,Rainy,118.19,High,117.58,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1194
+2026-05-03 07:15:00,2026-05-03,7,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,151,38,96,8,9,36.96,82.49,Foggy,124.56,High,125.59,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0488
+2026-05-03 07:30:00,2026-05-03,7,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,149,41,80,7,21,19.36,73.22,Rainy,109.1,High,107.5,High,1,Motorcycle-Dominant Traffic,Normal,0.0904
+2026-05-03 07:45:00,2026-05-03,7,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,115,36,68,3,8,26.32,62.77,Foggy,72.19,High,72.02,High,3,Motorcycle-Dominant Traffic,Normal,0.1358
+2026-05-03 08:00:00,2026-05-03,8,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,107,32,56,5,14,31.38,60.25,Cloudy,64.47,Medium,64.49,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1502
+2026-05-03 08:15:00,2026-05-03,8,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,145,50,78,5,12,23.65,87.38,Foggy,126.7,Severe,126.52,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0985
+2026-05-03 08:30:00,2026-05-03,8,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,129,40,82,6,1,31.03,70.25,Clear,90.62,High,91.02,High,3,Motorcycle-Dominant Traffic,Normal,0.1335
+2026-05-03 08:45:00,2026-05-03,8,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,144,44,76,5,19,16.02,76.54,Rainy,110.22,High,109.92,High,1,Motorcycle-Dominant Traffic,Normal,0.079
+2026-05-03 09:00:00,2026-05-03,9,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,150,43,93,7,7,28.08,84.53,Cloudy,126.8,High,127.14,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0953
+2026-05-03 09:15:00,2026-05-03,9,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,108,33,61,2,12,37.54,62.07,Cloudy,67.04,Medium,67.33,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1285
+2026-05-03 09:30:00,2026-05-03,9,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,132,41,66,5,20,28.48,65.65,Cloudy,86.66,High,85.79,High,1,Motorcycle-Dominant Traffic,Normal,0.1259
+2026-05-03 09:45:00,2026-05-03,9,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,155,47,86,6,16,23.04,94.31,Clear,146.18,Severe,147.15,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0923
+2026-05-03 10:00:00,2026-05-03,10,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,112,39,67,2,4,28.79,63.74,Foggy,71.39,High,72.12,High,3,Motorcycle-Dominant Traffic,Normal,0.1437
+2026-05-03 10:15:00,2026-05-03,10,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,78,21,45,1,11,43.17,38.26,Clear,29.84,Medium,29.84,Low,0,Motorcycle-Dominant Traffic,Normal,0.1179
+2026-05-03 10:30:00,2026-05-03,10,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,61,18,31,1,11,38.85,52.99,Foggy,32.32,Medium,30.98,Low,0,Mixed Traffic,Normal,0.0881
+2026-05-03 10:45:00,2026-05-03,10,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,97,32,56,4,5,29.78,55.76,Cloudy,54.09,High,54.08,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1424
+2026-05-03 11:00:00,2026-05-03,11,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,97,30,62,4,1,29.91,52.59,Foggy,51.01,High,51.12,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1406
+2026-05-03 11:15:00,2026-05-03,11,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,96,29,48,5,14,40.16,48.73,Cloudy,46.78,Medium,45.95,Medium,3,Motorcycle-Dominant Traffic,Normal,0.132
+2026-05-03 11:30:00,2026-05-03,11,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,98,28,50,4,16,34.85,61.01,Clear,59.79,Medium,59.64,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1455
+2026-05-03 11:45:00,2026-05-03,11,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,116,39,71,3,3,25.63,62.86,Foggy,72.92,High,72.75,High,3,Motorcycle-Dominant Traffic,Normal,0.1301
+2026-05-03 12:00:00,2026-05-03,12,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,115,35,66,2,12,33.82,61.25,Cloudy,70.44,Medium,70.42,High,3,Motorcycle-Dominant Traffic,Normal,0.1448
+2026-05-03 12:15:00,2026-05-03,12,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,121,39,75,5,2,25.61,60.57,Foggy,73.29,High,73.78,High,3,Motorcycle-Dominant Traffic,Normal,0.1286
+2026-05-03 12:30:00,2026-05-03,12,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,97,28,54,4,11,39.78,58.07,Cloudy,56.33,Medium,56.41,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1291
+2026-05-03 12:45:00,2026-05-03,12,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,131,45,75,7,4,26.58,72.28,Foggy,94.69,High,94.23,High,1,Motorcycle-Dominant Traffic,Normal,0.1297
+2026-05-03 13:00:00,2026-05-03,13,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,122,40,76,6,0,27.59,64.69,Foggy,78.92,High,79.91,High,3,Motorcycle-Dominant Traffic,Normal,0.1388
+2026-05-03 13:15:00,2026-05-03,13,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,324,108,188,6,22,3.09,90.75,Rainy,294.03,Severe,300.83,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.129
+2026-05-03 13:30:00,2026-05-03,13,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,95,31,49,5,10,37.15,65.1,Rainy,61.84,High,62.15,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1136
+2026-05-03 13:45:00,2026-05-03,13,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,113,30,69,4,10,26.49,61.25,Foggy,69.21,High,69.27,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1353
+2026-05-03 14:00:00,2026-05-03,14,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,84,22,42,4,16,37.25,49.21,Foggy,41.34,Medium,41.65,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1451
+2026-05-03 14:15:00,2026-05-03,14,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,75,21,42,3,9,34.49,40.95,Rainy,30.71,Medium,30.62,Low,3,Motorcycle-Dominant Traffic,Normal,0.1075
+2026-05-03 14:30:00,2026-05-03,14,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,85,26,50,2,7,36.96,43.78,Rainy,37.21,Medium,37.55,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1371
+2026-05-03 14:45:00,2026-05-03,14,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,96,24,62,4,6,32.55,51.82,Foggy,49.75,Medium,50.16,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1465
+2026-05-03 15:00:00,2026-05-03,15,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,95,33,54,4,4,33.93,45.11,Rainy,42.85,Medium,42.87,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1302
+2026-05-03 15:15:00,2026-05-03,15,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,70,21,41,2,6,42.03,37.77,Clear,26.44,Medium,26.61,Low,0,Motorcycle-Dominant Traffic,Normal,0.1203
+2026-05-03 15:30:00,2026-05-03,15,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,59,19,36,2,2,40.04,32.63,Cloudy,19.25,Medium,19.55,Low,0,Light Traffic,Normal,0.1123
+2026-05-03 15:45:00,2026-05-03,15,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,85,21,48,2,14,33.57,49.18,Rainy,41.8,Medium,41.77,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1361
+2026-05-03 16:00:00,2026-05-03,16,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,108,29,54,6,19,38.73,55.03,Clear,59.43,Medium,58.0,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1323
+2026-05-03 16:15:00,2026-05-03,16,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,150,44,87,8,11,24.39,78.67,Cloudy,118.0,High,117.79,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1175
+2026-05-03 16:30:00,2026-05-03,16,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,160,47,97,5,11,15.46,84.51,Foggy,135.22,High,134.13,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0759
+2026-05-03 16:45:00,2026-05-03,16,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,123,41,75,7,0,28.57,73.53,Cloudy,90.44,High,90.37,High,3,Motorcycle-Dominant Traffic,Normal,0.1295
+2026-05-03 17:00:00,2026-05-03,17,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,189,63,101,4,21,19.05,100.0,Foggy,189.0,Severe,188.77,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0657
+2026-05-03 17:15:00,2026-05-03,17,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,146,46,86,8,6,25.71,88.92,Rainy,129.82,Severe,130.74,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0853
+2026-05-03 17:30:00,2026-05-03,17,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,176,56,91,7,22,11.99,96.63,Foggy,170.07,Severe,169.23,Severe,1,Motorcycle-Dominant Traffic,Normal,0.069
+2026-05-03 17:45:00,2026-05-03,17,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,109,35,55,2,17,32.36,55.7,Clear,60.71,Medium,60.26,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1409
+2026-05-03 18:00:00,2026-05-03,18,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,180,48,107,4,21,11.37,100.0,Foggy,180.0,Severe,179.32,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0821
+2026-05-03 18:15:00,2026-05-03,18,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,99,27,60,2,10,44.23,51.22,Clear,50.71,Medium,50.83,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1096
+2026-05-03 18:30:00,2026-05-03,18,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,158,41,83,7,27,25.51,90.99,Foggy,143.76,Severe,143.24,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0923
+2026-05-03 18:45:00,2026-05-03,18,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,122,31,70,7,14,31.93,72.42,Clear,88.35,High,88.52,High,3,Motorcycle-Dominant Traffic,Normal,0.1317
+2026-05-03 19:00:00,2026-05-03,19,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,158,51,92,8,7,18.57,83.51,Rainy,131.95,High,131.88,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0938
+2026-05-03 19:15:00,2026-05-03,19,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,128,43,70,3,12,22.82,61.28,Foggy,78.44,High,79.19,High,3,Motorcycle-Dominant Traffic,Normal,0.1062
+2026-05-03 19:30:00,2026-05-03,19,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,185,50,118,4,13,11.34,100.0,Rainy,185.0,Severe,185.08,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0893
+2026-05-03 19:45:00,2026-05-03,19,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,309,95,186,7,21,6.89,93.86,Cloudy,290.03,Severe,292.89,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.095
+2026-05-03 20:00:00,2026-05-03,20,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,77,24,48,3,2,36.96,37.58,Rainy,28.94,Medium,28.92,Low,3,Motorcycle-Dominant Traffic,Normal,0.1081
+2026-05-03 20:15:00,2026-05-03,20,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,66,22,38,3,3,50.1,33.41,Clear,22.05,Low,21.81,Low,0,Light Traffic,Normal,0.0984
+2026-05-03 20:30:00,2026-05-03,20,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,68,22,39,3,4,42.35,49.28,Rainy,33.51,Medium,33.92,Low,0,Light Traffic,Normal,0.1207
+2026-05-03 20:45:00,2026-05-03,20,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,75,20,43,3,9,46.26,43.57,Cloudy,32.68,Medium,32.26,Low,0,Motorcycle-Dominant Traffic,Normal,0.1183
+2026-05-03 21:00:00,2026-05-03,21,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,78,23,40,1,14,45.19,47.48,Cloudy,37.03,Medium,36.84,Medium,0,Motorcycle-Dominant Traffic,Normal,0.1068
+2026-05-03 21:15:00,2026-05-03,21,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,73,18,47,2,6,44.43,43.5,Clear,31.76,Medium,30.97,Low,0,Motorcycle-Dominant Traffic,Normal,0.1268
+2026-05-03 21:30:00,2026-05-03,21,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,80,21,47,2,10,46.58,45.83,Clear,36.66,Medium,36.28,Medium,0,Motorcycle-Dominant Traffic,Normal,0.1066
+2026-05-03 21:45:00,2026-05-03,21,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,126,41,63,2,20,24.36,73.24,Foggy,92.28,High,92.29,High,3,Motorcycle-Dominant Traffic,Normal,0.1275
+2026-05-03 22:00:00,2026-05-03,22,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,44,11,24,1,8,49.68,20.36,Foggy,8.96,Low,8.83,Low,0,Light Traffic,Normal,0.1265
+2026-05-03 22:15:00,2026-05-03,22,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,14,4,8,0,2,55.83,5.0,Clear,0.7,Low,0.98,Low,0,Light Traffic,Anomaly,-0.0482
+2026-05-03 22:30:00,2026-05-03,22,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,21,5,13,0,3,58.8,22.74,Foggy,4.78,Low,5.2,Low,0,Light Traffic,Normal,0.0335
+2026-05-03 22:45:00,2026-05-03,22,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,33,10,16,1,6,62.0,24.38,Cloudy,8.05,Low,8.01,Low,0,Light Traffic,Normal,0.031
+2026-05-03 23:00:00,2026-05-03,23,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,49,16,26,1,6,47.12,32.8,Rainy,16.07,Low,16.18,Low,0,Light Traffic,Normal,0.1154
+2026-05-03 23:15:00,2026-05-03,23,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,32,10,19,1,2,46.43,16.81,Foggy,5.38,Low,5.32,Low,0,Light Traffic,Normal,0.1018
+2026-05-03 23:30:00,2026-05-03,23,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,31,8,15,1,7,43.78,18.17,Foggy,5.63,Medium,5.67,Low,0,Light Traffic,Normal,0.0908
+2026-05-03 23:45:00,2026-05-03,23,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,41,12,23,2,4,53.84,17.98,Clear,7.37,Low,7.26,Low,0,Light Traffic,Normal,0.1114
+2026-05-04 00:00:00,2026-05-04,0,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,25,7,14,0,4,63.1,6.83,Clear,1.71,Low,1.79,Low,0,Light Traffic,Anomaly,-0.0371
+2026-05-04 00:15:00,2026-05-04,0,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,28,7,14,1,6,58.56,6.71,Clear,1.88,Low,1.93,Low,0,Light Traffic,Normal,0.0107
+2026-05-04 00:30:00,2026-05-04,0,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,40,11,21,2,6,51.41,20.38,Cloudy,8.15,Low,8.11,Low,0,Light Traffic,Normal,0.1286
+2026-05-04 00:45:00,2026-05-04,0,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,52,15,32,2,3,51.89,37.75,Clear,19.63,Low,20.09,Low,0,Light Traffic,Normal,0.0821
+2026-05-04 01:00:00,2026-05-04,1,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,69,18,42,3,6,42.92,40.31,Cloudy,27.81,Medium,28.33,Low,0,Light Traffic,Normal,0.1268
+2026-05-04 01:15:00,2026-05-04,1,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,33,11,19,0,3,56.35,17.31,Clear,5.71,Low,5.52,Low,0,Light Traffic,Normal,0.1098
+2026-05-04 01:30:00,2026-05-04,1,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,278,90,146,8,34,6.91,91.93,Cloudy,255.57,Severe,256.14,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0677
+2026-05-04 01:45:00,2026-05-04,1,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,60,15,36,2,7,37.3,37.75,Cloudy,22.65,Medium,22.49,Low,0,Mixed Traffic,Normal,0.0991
+2026-05-04 02:00:00,2026-05-04,2,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,38,12,19,2,5,54.37,24.62,Clear,9.36,Low,9.63,Low,0,Light Traffic,Normal,0.1135
+2026-05-04 02:15:00,2026-05-04,2,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,45,13,22,1,9,53.93,18.73,Cloudy,8.43,Low,8.47,Low,0,Light Traffic,Normal,0.1063
+2026-05-04 02:30:00,2026-05-04,2,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,41,14,23,1,3,41.32,18.74,Rainy,7.68,Medium,7.99,Low,0,Light Traffic,Normal,0.0848
+2026-05-04 02:45:00,2026-05-04,2,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,32,8,16,0,8,54.8,23.52,Cloudy,7.53,Low,7.43,Low,0,Light Traffic,Normal,0.0999
+2026-05-04 03:00:00,2026-05-04,3,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,30,9,18,0,3,57.75,18.56,Clear,5.57,Low,5.86,Low,0,Light Traffic,Normal,0.1032
+2026-05-04 03:15:00,2026-05-04,3,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,71,21,36,2,12,41.0,43.96,Rainy,31.21,Medium,31.17,Low,0,Motorcycle-Dominant Traffic,Normal,0.1273
+2026-05-04 03:30:00,2026-05-04,3,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,19,5,11,0,3,56.21,17.54,Clear,3.33,Low,3.6,Low,0,Light Traffic,Normal,0.0397
+2026-05-04 03:45:00,2026-05-04,3,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,40,10,22,2,6,46.42,18.23,Foggy,7.29,Low,7.22,Low,0,Light Traffic,Normal,0.1178
+2026-05-04 04:00:00,2026-05-04,4,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,25,7,15,0,3,51.94,12.09,Cloudy,3.02,Low,3.1,Low,0,Light Traffic,Normal,0.0465
+2026-05-04 04:15:00,2026-05-04,4,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,56,19,31,2,4,51.53,30.72,Cloudy,17.2,Low,16.87,Low,0,Light Traffic,Normal,0.1071
+2026-05-04 04:30:00,2026-05-04,4,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,57,17,29,3,8,55.52,38.21,Rainy,21.78,Low,21.96,Low,0,Light Traffic,Normal,0.068
+2026-05-04 04:45:00,2026-05-04,4,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,35,9,22,1,3,59.93,16.1,Clear,5.64,Low,5.32,Low,0,Light Traffic,Normal,0.0699
+2026-05-04 05:00:00,2026-05-04,5,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,107,30,66,6,5,42.57,53.35,Clear,57.08,Medium,56.89,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1087
+2026-05-04 05:15:00,2026-05-04,5,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,81,26,48,2,5,37.41,42.98,Foggy,34.81,Medium,35.65,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1374
+2026-05-04 05:30:00,2026-05-04,5,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,58,18,32,1,7,52.19,33.18,Clear,19.24,Low,19.15,Low,0,Light Traffic,Normal,0.1048
+2026-05-04 05:45:00,2026-05-04,5,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,109,37,62,4,6,25.5,62.7,Rainy,68.34,High,69.0,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1192
+2026-05-04 06:00:00,2026-05-04,6,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,172,43,90,7,32,19.94,100.0,Foggy,172.0,Severe,168.53,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0633
+2026-05-04 06:15:00,2026-05-04,6,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,98,25,62,4,7,41.85,52.97,Clear,51.91,Medium,51.62,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1343
+2026-05-04 06:30:00,2026-05-04,6,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,122,34,73,4,11,31.77,66.95,Rainy,81.68,High,81.84,High,3,Motorcycle-Dominant Traffic,Normal,0.143
+2026-05-04 06:45:00,2026-05-04,6,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,116,34,64,6,12,29.0,61.92,Cloudy,71.83,High,71.32,High,3,Motorcycle-Dominant Traffic,Normal,0.1446
+2026-05-04 07:00:00,2026-05-04,7,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,110,30,56,2,22,36.69,57.8,Cloudy,63.58,Medium,63.7,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1402
+2026-05-04 07:15:00,2026-05-04,7,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,145,45,88,6,6,24.74,78.4,Rainy,113.68,High,112.98,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1211
+2026-05-04 07:30:00,2026-05-04,7,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,161,42,95,7,17,18.65,95.42,Foggy,153.63,Severe,151.41,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0833
+2026-05-04 07:45:00,2026-05-04,7,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,96,25,49,5,17,37.35,50.96,Foggy,48.92,Medium,49.4,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1525
+2026-05-04 08:00:00,2026-05-04,8,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,180,54,108,5,13,6.62,100.0,Rainy,180.0,Severe,179.64,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0442
+2026-05-04 08:15:00,2026-05-04,8,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,103,34,64,5,0,39.29,61.66,Cloudy,63.51,Medium,64.03,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1206
+2026-05-04 08:30:00,2026-05-04,8,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,194,59,116,4,15,7.53,99.25,Rainy,192.54,Severe,193.95,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0452
+2026-05-04 08:45:00,2026-05-04,8,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,73,22,45,2,4,41.61,40.1,Cloudy,29.27,Medium,29.17,Low,0,Motorcycle-Dominant Traffic,Normal,0.1294
+2026-05-04 09:00:00,2026-05-04,9,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,114,38,61,3,12,31.26,64.31,Foggy,73.31,Medium,73.0,High,3,Motorcycle-Dominant Traffic,Normal,0.1493
+2026-05-04 09:15:00,2026-05-04,9,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,115,28,71,6,10,32.51,69.32,Clear,79.72,High,79.39,High,3,Motorcycle-Dominant Traffic,Normal,0.1378
+2026-05-04 09:30:00,2026-05-04,9,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,113,29,71,5,8,31.98,58.22,Rainy,65.79,Medium,65.52,Medium,3,Motorcycle-Dominant Traffic,Normal,0.147
+2026-05-04 09:45:00,2026-05-04,9,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,148,37,79,5,27,25.2,74.14,Foggy,109.73,High,109.3,High,1,Motorcycle-Dominant Traffic,Normal,0.1109
+2026-05-04 10:00:00,2026-05-04,10,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,87,22,53,4,8,30.98,50.47,Rainy,43.91,Medium,43.11,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1356
+2026-05-04 10:15:00,2026-05-04,10,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,98,33,57,2,6,32.08,53.6,Rainy,52.53,Medium,52.26,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1476
+2026-05-04 10:30:00,2026-05-04,10,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,88,29,44,3,12,39.65,50.21,Rainy,44.18,Medium,44.09,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1478
+2026-05-04 10:45:00,2026-05-04,10,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,92,31,57,3,1,31.19,54.5,Clear,50.14,Medium,49.75,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1477
+2026-05-04 11:00:00,2026-05-04,11,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,99,30,60,5,4,29.93,65.53,Cloudy,64.87,High,64.01,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1189
+2026-05-04 11:15:00,2026-05-04,11,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,106,32,63,5,6,35.8,50.88,Cloudy,53.93,Medium,53.99,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1344
+2026-05-04 11:30:00,2026-05-04,11,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,79,24,45,4,6,36.96,51.28,Foggy,40.51,Medium,39.53,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1332
+2026-05-04 11:45:00,2026-05-04,11,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,114,35,65,2,12,30.53,56.73,Cloudy,64.67,Medium,64.81,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1451
+2026-05-04 12:00:00,2026-05-04,12,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,75,20,39,4,12,40.1,40.57,Foggy,30.43,Medium,30.64,Low,3,Motorcycle-Dominant Traffic,Normal,0.1276
+2026-05-04 12:15:00,2026-05-04,12,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,47,14,24,1,8,53.58,18.82,Clear,8.85,Low,8.86,Low,0,Light Traffic,Normal,0.1091
+2026-05-04 12:30:00,2026-05-04,12,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,138,42,85,5,6,19.49,78.55,Rainy,108.4,High,109.23,High,1,Motorcycle-Dominant Traffic,Normal,0.0935
+2026-05-04 12:45:00,2026-05-04,12,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,108,27,60,4,17,30.72,56.02,Foggy,60.5,Medium,60.34,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1493
+2026-05-04 13:00:00,2026-05-04,13,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,132,42,75,7,8,24.09,71.34,Rainy,94.17,High,93.64,High,1,Motorcycle-Dominant Traffic,Normal,0.1284
+2026-05-04 13:15:00,2026-05-04,13,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,119,34,66,4,15,28.32,68.65,Rainy,81.69,High,81.76,High,3,Motorcycle-Dominant Traffic,Normal,0.1419
+2026-05-04 13:30:00,2026-05-04,13,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,71,24,44,3,0,42.83,40.17,Rainy,28.52,Medium,28.84,Low,0,Motorcycle-Dominant Traffic,Normal,0.1287
+2026-05-04 13:45:00,2026-05-04,13,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,82,21,49,2,10,27.89,41.96,Rainy,34.41,High,35.03,Medium,3,Motorcycle-Dominant Traffic,Normal,0.0747
+2026-05-04 14:00:00,2026-05-04,14,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,267,78,137,6,46,8.74,93.21,Foggy,248.87,Severe,252.63,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0526
+2026-05-04 14:15:00,2026-05-04,14,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,85,27,51,2,5,35.36,47.32,Rainy,40.22,Medium,40.39,Medium,3,Motorcycle-Dominant Traffic,Normal,0.14
+2026-05-04 14:30:00,2026-05-04,14,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,81,27,47,3,4,42.68,45.29,Cloudy,36.68,Medium,36.77,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1338
+2026-05-04 14:45:00,2026-05-04,14,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,90,22,46,3,19,38.99,40.59,Cloudy,36.53,Medium,36.34,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1111
+2026-05-04 15:00:00,2026-05-04,15,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,63,19,32,2,10,49.62,39.28,Clear,24.75,Low,24.87,Low,0,Light Traffic,Normal,0.0997
+2026-05-04 15:15:00,2026-05-04,15,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,104,33,65,3,3,31.23,62.37,Cloudy,64.86,Medium,64.7,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1425
+2026-05-04 15:30:00,2026-05-04,15,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,323,109,198,16,0,7.82,97.88,Cloudy,316.15,Severe,312.47,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.1249
+2026-05-04 15:45:00,2026-05-04,15,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,66,18,38,2,8,44.63,42.3,Rainy,27.92,Medium,28.8,Low,0,Light Traffic,Normal,0.1077
+2026-05-04 16:00:00,2026-05-04,16,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,178,47,100,9,22,10.86,94.07,Rainy,167.44,Severe,167.66,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0583
+2026-05-04 16:15:00,2026-05-04,16,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,174,54,87,7,26,16.25,95.62,Cloudy,166.38,Severe,165.8,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0764
+2026-05-04 16:30:00,2026-05-04,16,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,112,34,67,3,8,30.78,71.68,Cloudy,80.28,High,79.49,High,3,Motorcycle-Dominant Traffic,Normal,0.1329
+2026-05-04 16:45:00,2026-05-04,16,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,126,37,65,2,22,32.69,70.03,Cloudy,88.24,High,89.06,High,3,Motorcycle-Dominant Traffic,Normal,0.1358
+2026-05-04 17:00:00,2026-05-04,17,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,120,34,60,3,23,34.56,57.65,Clear,69.18,Medium,70.24,High,3,Motorcycle-Dominant Traffic,Normal,0.1375
+2026-05-04 17:15:00,2026-05-04,17,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,156,40,99,9,8,25.79,85.0,Cloudy,132.6,Severe,133.27,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1066
+2026-05-04 17:30:00,2026-05-04,17,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,140,39,90,8,3,31.48,70.08,Clear,98.11,High,97.45,High,1,Motorcycle-Dominant Traffic,Normal,0.1041
+2026-05-04 17:45:00,2026-05-04,17,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,195,59,107,5,24,15.18,100.0,Rainy,195.0,Severe,194.76,Severe,1,Motorcycle-Dominant Traffic,Normal,0.061
+2026-05-04 18:00:00,2026-05-04,18,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,173,48,97,5,23,17.75,89.8,Foggy,155.35,Severe,154.87,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0687
+2026-05-04 18:15:00,2026-05-04,18,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,160,48,103,5,4,20.71,90.09,Clear,144.14,Severe,143.46,Severe,1,Motorcycle-Dominant Traffic,Normal,0.101
+2026-05-04 18:30:00,2026-05-04,18,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,216,62,123,12,19,36.96,100.0,Rainy,216.0,Severe,212.52,Severe,1,Motorcycle-Dominant Traffic,Anomaly,-0.0691
+2026-05-04 18:45:00,2026-05-04,18,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,134,41,78,3,12,23.64,73.91,Foggy,99.04,High,99.39,High,3,Motorcycle-Dominant Traffic,Normal,0.1263
+2026-05-04 19:00:00,2026-05-04,19,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,166,57,88,9,12,9.49,93.55,Rainy,155.29,Severe,155.82,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0391
+2026-05-04 19:15:00,2026-05-04,19,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,165,43,104,8,10,24.83,89.95,Clear,148.42,Severe,148.43,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0887
+2026-05-04 19:30:00,2026-05-04,19,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,152,40,97,5,10,19.52,52.99,Foggy,80.54,High,81.75,High,1,Motorcycle-Dominant Traffic,Normal,0.0232
+2026-05-04 19:45:00,2026-05-04,19,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,175,54,110,6,5,17.63,93.95,Clear,164.41,Severe,163.79,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0786
+2026-05-04 20:00:00,2026-05-04,20,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,61,18,35,2,6,49.25,39.86,Foggy,24.31,Low,24.36,Low,0,Light Traffic,Normal,0.1082
+2026-05-04 20:15:00,2026-05-04,20,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,90,27,55,5,3,41.71,49.24,Clear,44.32,Medium,44.56,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1348
+2026-05-04 20:30:00,2026-05-04,20,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,81,27,50,1,3,46.29,44.32,Cloudy,35.9,Medium,36.8,Medium,0,Motorcycle-Dominant Traffic,Normal,0.1197
+2026-05-04 20:45:00,2026-05-04,20,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,118,36,68,6,8,27.43,63.61,Rainy,75.06,High,75.5,High,3,Motorcycle-Dominant Traffic,Normal,0.1382
+2026-05-04 21:00:00,2026-05-04,21,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,113,29,68,3,13,37.54,68.5,Cloudy,77.4,High,77.38,High,3,Motorcycle-Dominant Traffic,Normal,0.1059
+2026-05-04 21:15:00,2026-05-04,21,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,102,27,55,5,15,37.31,59.23,Foggy,60.41,Medium,60.0,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1416
+2026-05-04 21:30:00,2026-05-04,21,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,97,25,59,4,9,39.81,57.37,Cloudy,55.65,Medium,55.42,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1318
+2026-05-04 21:45:00,2026-05-04,21,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,111,37,68,4,2,31.14,57.26,Foggy,63.56,Medium,63.49,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1497
+2026-05-04 22:00:00,2026-05-04,22,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,32,8,17,1,6,48.02,18.31,Foggy,5.86,Low,5.86,Low,0,Light Traffic,Normal,0.1119
+2026-05-04 22:15:00,2026-05-04,22,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,38,9,24,2,3,41.93,22.18,Foggy,8.43,Medium,8.32,Low,0,Light Traffic,Normal,0.0933
+2026-05-04 22:30:00,2026-05-04,22,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,35,11,21,0,3,52.98,18.64,Clear,6.52,Low,6.47,Low,0,Light Traffic,Normal,0.1158
+2026-05-04 22:45:00,2026-05-04,22,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,33,9,17,1,6,60.07,17.36,Clear,5.73,Low,5.45,Low,0,Light Traffic,Normal,0.0737
+2026-05-04 23:00:00,2026-05-04,23,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,38,11,20,2,5,44.48,12.85,Cloudy,4.88,Medium,5.2,Low,0,Light Traffic,Normal,0.0698
+2026-05-04 23:15:00,2026-05-04,23,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,49,12,29,2,6,40.67,28.14,Clear,13.79,Medium,13.86,Low,0,Light Traffic,Normal,0.1261
+2026-05-04 23:30:00,2026-05-04,23,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,63,20,32,1,10,51.21,39.22,Cloudy,24.71,Low,25.38,Low,0,Light Traffic,Normal,0.0892
+2026-05-04 23:45:00,2026-05-04,23,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,46,14,28,1,3,36.96,23.01,Clear,10.58,Medium,10.55,Low,0,Mixed Traffic,Normal,0.0625
+2026-05-05 00:00:00,2026-05-05,0,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,39,10,21,1,7,48.17,18.54,Clear,7.23,Low,7.38,Low,0,Light Traffic,Normal,0.1208
+2026-05-05 00:15:00,2026-05-05,0,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,34,10,18,0,6,53.8,14.55,Foggy,4.95,Low,4.7,Low,0,Light Traffic,Normal,0.1028
+2026-05-05 00:30:00,2026-05-05,0,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,40,11,22,2,5,47.79,27.36,Foggy,10.94,Low,11.06,Low,0,Light Traffic,Normal,0.1231
+2026-05-05 00:45:00,2026-05-05,0,Tuesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,27,7,17,1,2,59.81,14.48,Clear,3.91,Low,3.96,Low,0,Light Traffic,Normal,0.0515
+2026-05-05 01:00:00,2026-05-05,1,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,53,15,30,2,6,41.42,32.06,Rainy,16.99,Medium,16.87,Low,0,Light Traffic,Normal,0.1223
+2026-05-05 01:15:00,2026-05-05,1,Tuesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,30,10,17,1,2,51.85,17.65,Foggy,5.3,Low,5.28,Low,0,Light Traffic,Normal,0.1133
+2026-05-05 01:30:00,2026-05-05,1,Tuesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,42,13,25,0,4,50.24,25.37,Cloudy,10.66,Low,10.84,Low,0,Light Traffic,Normal,0.1251
+2026-05-05 01:45:00,2026-05-05,1,Tuesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,35,10,20,1,4,51.05,13.34,Cloudy,4.67,Low,4.68,Low,0,Light Traffic,Normal,0.0967
+2026-05-05 02:00:00,2026-05-05,2,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,23,6,14,1,2,58.66,10.79,Clear,2.48,Low,2.43,Low,0,Light Traffic,Normal,0.0166
+2026-05-05 02:15:00,2026-05-05,2,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,50,14,29,2,5,52.18,22.42,Cloudy,11.21,Low,11.2,Low,0,Light Traffic,Normal,0.113
+2026-05-05 02:30:00,2026-05-05,2,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,31,9,16,1,5,52.52,22.6,Rainy,7.01,Low,6.8,Low,0,Light Traffic,Normal,0.107
+2026-05-05 02:45:00,2026-05-05,2,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,23,7,12,0,4,57.94,15.79,Rainy,3.63,Low,3.68,Low,0,Light Traffic,Normal,0.0446
+2026-05-05 03:00:00,2026-05-05,3,Tuesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,43,12,22,1,8,50.6,16.26,Cloudy,6.99,Low,7.01,Low,0,Light Traffic,Normal,0.105
+2026-05-05 03:15:00,2026-05-05,3,Tuesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,30,7,15,1,7,39.25,15.71,Rainy,4.71,Medium,4.82,Low,0,Mixed Traffic,Normal,0.0475
+2026-05-05 03:30:00,2026-05-05,3,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,58,17,29,3,9,53.64,42.31,Clear,24.54,Medium,24.98,Low,0,Light Traffic,Normal,0.069
+2026-05-05 03:45:00,2026-05-05,3,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,40,13,21,2,4,48.75,22.32,Rainy,8.93,Low,8.69,Low,0,Light Traffic,Normal,0.1324
+2026-05-05 04:00:00,2026-05-05,4,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,45,12,23,0,10,48.12,29.9,Rainy,13.46,Low,13.22,Low,0,Light Traffic,Normal,0.1235
+2026-05-05 04:15:00,2026-05-05,4,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,39,11,22,1,5,49.91,52.99,Rainy,20.67,Medium,21.62,Low,0,Light Traffic,Normal,0.0302
+2026-05-05 04:30:00,2026-05-05,4,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,32,9,19,1,3,57.98,15.8,Clear,5.06,Low,4.96,Low,0,Light Traffic,Normal,0.0936
+2026-05-05 04:45:00,2026-05-05,4,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,40,10,21,1,8,54.3,30.53,Clear,12.21,Low,12.08,Low,0,Light Traffic,Normal,0.0933
+2026-05-05 05:00:00,2026-05-05,5,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,75,19,48,2,6,39.17,38.36,Rainy,28.77,Medium,28.87,Low,0,Motorcycle-Dominant Traffic,Normal,0.1174
+2026-05-05 05:15:00,2026-05-05,5,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,99,30,51,5,13,27.8,56.23,Rainy,55.67,High,55.53,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1371
+2026-05-05 05:30:00,2026-05-05,5,Tuesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,100,31,55,3,11,44.56,58.75,Clear,58.75,Medium,58.15,Medium,3,Motorcycle-Dominant Traffic,Normal,0.0912
+2026-05-05 05:45:00,2026-05-05,5,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,77,22,41,4,10,44.47,43.54,Clear,33.53,Medium,33.24,Low,3,Motorcycle-Dominant Traffic,Normal,0.1298
+2026-05-05 06:00:00,2026-05-05,6,Tuesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,101,34,52,4,11,48.11,56.13,Clear,56.69,Medium,56.85,Medium,3,Motorcycle-Dominant Traffic,Normal,0.0689
+2026-05-05 06:15:00,2026-05-05,6,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,127,32,76,3,16,26.53,77.42,Foggy,98.32,High,97.93,High,3,Motorcycle-Dominant Traffic,Normal,0.1186
+2026-05-05 06:30:00,2026-05-05,6,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,129,34,65,4,26,32.88,73.91,Foggy,95.34,High,95.91,High,3,Motorcycle-Dominant Traffic,Normal,0.1257
+2026-05-05 06:45:00,2026-05-05,6,Tuesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,122,42,65,3,12,25.11,70.09,Cloudy,85.51,High,87.21,High,3,Motorcycle-Dominant Traffic,Normal,0.1286
+2026-05-05 07:00:00,2026-05-05,7,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,180,56,91,10,23,8.55,100.0,Foggy,180.0,Severe,179.37,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0646
+2026-05-05 07:15:00,2026-05-05,7,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,91,30,56,5,0,44.45,49.54,Clear,45.08,Medium,45.25,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1207
+2026-05-05 07:30:00,2026-05-05,7,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,112,36,64,3,9,30.95,69.18,Rainy,77.48,High,77.33,High,3,Motorcycle-Dominant Traffic,Normal,0.1379
+2026-05-05 07:45:00,2026-05-05,7,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,134,41,70,6,17,22.25,74.44,Rainy,99.75,High,99.65,High,1,Motorcycle-Dominant Traffic,Normal,0.1253
+2026-05-05 08:00:00,2026-05-05,8,Tuesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,96,32,52,4,8,43.42,52.56,Clear,50.46,Medium,50.66,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1262
+2026-05-05 08:15:00,2026-05-05,8,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,149,44,75,6,24,18.32,79.54,Rainy,118.51,High,118.01,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0908
+2026-05-05 08:30:00,2026-05-05,8,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,119,30,77,6,6,28.53,59.39,Foggy,70.67,High,71.59,High,3,Motorcycle-Dominant Traffic,Normal,0.14
+2026-05-05 08:45:00,2026-05-05,8,Tuesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,109,37,66,6,0,24.28,65.59,Rainy,71.49,High,71.63,High,3,Motorcycle-Dominant Traffic,Normal,0.1092
+2026-05-05 09:00:00,2026-05-05,9,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,127,36,74,5,12,36.41,67.01,Clear,85.1,High,84.82,High,3,Motorcycle-Dominant Traffic,Normal,0.1098
+2026-05-05 09:15:00,2026-05-05,9,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,88,22,56,3,7,41.37,52.32,Clear,46.04,Medium,46.06,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1381
+2026-05-05 09:30:00,2026-05-05,9,Tuesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,141,43,79,5,14,24.09,74.31,Rainy,104.78,High,104.52,High,1,Motorcycle-Dominant Traffic,Normal,0.1199
+2026-05-05 09:45:00,2026-05-05,9,Tuesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,123,41,68,7,7,33.49,72.94,Clear,89.72,High,89.83,High,3,Motorcycle-Dominant Traffic,Normal,0.1261
+2026-05-05 10:00:00,2026-05-05,10,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,58,15,33,2,8,56.54,29.47,Clear,17.09,Low,17.05,Low,0,Light Traffic,Normal,0.0797
+2026-05-05 10:15:00,2026-05-05,10,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,85,23,53,1,8,27.33,48.22,Foggy,40.99,High,41.86,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1078
+2026-05-05 10:30:00,2026-05-05,10,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,65,20,35,3,7,50.37,31.35,Clear,20.38,Low,20.07,Low,0,Light Traffic,Normal,0.1015
+2026-05-05 10:45:00,2026-05-05,10,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,105,31,66,3,5,28.73,57.93,Rainy,60.83,High,60.71,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1404
+2026-05-05 11:00:00,2026-05-05,11,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,121,35,60,4,22,26.8,63.56,Foggy,76.91,High,76.82,High,3,Motorcycle-Dominant Traffic,Normal,0.1429
+2026-05-05 11:15:00,2026-05-05,11,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,59,16,32,1,10,52.97,27.03,Clear,15.95,Low,15.77,Low,0,Light Traffic,Normal,0.1
+2026-05-05 11:30:00,2026-05-05,11,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,127,35,71,4,17,27.1,74.87,Rainy,95.08,High,95.86,High,3,Motorcycle-Dominant Traffic,Normal,0.1277
+2026-05-05 11:45:00,2026-05-05,11,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,114,32,60,6,16,31.11,70.45,Cloudy,80.31,High,80.14,High,3,Motorcycle-Dominant Traffic,Normal,0.1419
+2026-05-05 12:00:00,2026-05-05,12,Tuesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,117,35,59,5,18,33.67,67.4,Foggy,78.86,High,79.53,High,3,Motorcycle-Dominant Traffic,Normal,0.1376
+2026-05-05 12:15:00,2026-05-05,12,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,65,22,38,1,4,51.35,28.6,Clear,18.59,Low,18.42,Low,0,Light Traffic,Normal,0.0923
+2026-05-05 12:30:00,2026-05-05,12,Tuesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,132,34,81,5,12,25.01,52.99,Cloudy,69.95,High,73.93,High,3,Motorcycle-Dominant Traffic,Normal,0.0851
+2026-05-05 12:45:00,2026-05-05,12,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,248,84,142,12,10,11.37,93.84,Rainy,232.72,Severe,242.41,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0352
+2026-05-05 13:00:00,2026-05-05,13,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,227,59,126,10,32,11.42,93.63,Clear,212.54,Severe,220.92,Severe,2,Motorcycle-Dominant Traffic,Normal,0.0006
+2026-05-05 13:15:00,2026-05-05,13,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,262,68,137,6,51,11.71,99.15,Foggy,259.77,Severe,253.53,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0437
+2026-05-05 13:30:00,2026-05-05,13,Tuesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,125,37,80,4,4,37.45,71.72,Cloudy,89.65,High,89.74,High,3,Motorcycle-Dominant Traffic,Normal,0.0986
+2026-05-05 13:45:00,2026-05-05,13,Tuesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,124,35,75,2,12,36.96,67.1,Foggy,83.2,High,82.62,High,3,Motorcycle-Dominant Traffic,Normal,0.1104
+2026-05-05 14:00:00,2026-05-05,14,Tuesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,110,38,64,2,6,36.8,70.21,Cloudy,77.23,High,77.35,High,3,Motorcycle-Dominant Traffic,Normal,0.1085
+2026-05-05 14:15:00,2026-05-05,14,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,75,20,47,3,5,29.64,47.15,Rainy,35.36,High,34.78,Low,3,Motorcycle-Dominant Traffic,Normal,0.0891
+2026-05-05 14:30:00,2026-05-05,14,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,100,33,54,4,9,28.55,52.31,Rainy,52.31,High,51.88,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1299
+2026-05-05 14:45:00,2026-05-05,14,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,78,23,46,4,5,38.02,44.05,Foggy,34.36,Medium,34.34,Low,3,Motorcycle-Dominant Traffic,Normal,0.134
+2026-05-05 15:00:00,2026-05-05,15,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,41,11,22,1,7,53.38,28.87,Cloudy,11.84,Low,11.64,Low,0,Light Traffic,Normal,0.1072
+2026-05-05 15:15:00,2026-05-05,15,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,52,13,29,2,8,46.86,20.35,Cloudy,10.58,Low,10.29,Low,0,Light Traffic,Normal,0.1092
+2026-05-05 15:30:00,2026-05-05,15,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,49,14,24,2,9,54.69,34.16,Cloudy,16.74,Low,16.72,Low,0,Light Traffic,Normal,0.0851
+2026-05-05 15:45:00,2026-05-05,15,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,103,27,61,3,12,34.6,58.52,Cloudy,60.28,Medium,60.34,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1551
+2026-05-05 16:00:00,2026-05-05,16,Tuesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,202,70,114,4,14,5.0,100.0,Rainy,202.0,Severe,202.53,Severe,1,Motorcycle-Dominant Traffic,Normal,0.027
+2026-05-05 16:15:00,2026-05-05,16,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,135,35,87,4,9,26.81,80.18,Rainy,108.24,High,109.57,High,3,Motorcycle-Dominant Traffic,Normal,0.1073
+2026-05-05 16:30:00,2026-05-05,16,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,169,46,94,4,25,11.03,85.15,Rainy,143.9,Severe,144.99,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0373
+2026-05-05 16:45:00,2026-05-05,16,Tuesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,212,66,115,12,19,5.0,100.0,Rainy,212.0,Severe,207.43,Severe,2,Motorcycle-Dominant Traffic,Normal,0.0182
+2026-05-05 17:00:00,2026-05-05,17,Tuesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,138,43,81,6,8,23.41,82.62,Foggy,114.02,High,114.59,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1116
+2026-05-05 17:15:00,2026-05-05,17,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,177,49,104,5,19,18.82,99.69,Foggy,176.45,Severe,174.17,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0728
+2026-05-05 17:30:00,2026-05-05,17,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,182,56,96,8,22,14.86,96.79,Foggy,176.16,Severe,176.82,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0734
+2026-05-05 17:45:00,2026-05-05,17,Tuesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,347,116,208,15,8,7.76,94.82,Rainy,329.03,Severe,323.15,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.1412
+2026-05-05 18:00:00,2026-05-05,18,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,189,59,99,11,20,10.41,100.0,Foggy,189.0,Severe,188.83,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0857
+2026-05-05 18:15:00,2026-05-05,18,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,133,45,81,4,3,22.0,65.86,Rainy,87.59,High,87.26,High,3,Motorcycle-Dominant Traffic,Normal,0.1018
+2026-05-05 18:30:00,2026-05-05,18,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,172,47,102,8,15,24.53,97.35,Cloudy,167.44,Severe,167.95,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0544
+2026-05-05 18:45:00,2026-05-05,18,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,182,50,91,5,36,9.84,96.95,Foggy,176.45,Severe,177.16,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0552
+2026-05-05 19:00:00,2026-05-05,19,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,164,50,100,7,7,15.14,93.15,Foggy,152.77,Severe,152.72,Severe,1,Motorcycle-Dominant Traffic,Normal,0.078
+2026-05-05 19:15:00,2026-05-05,19,Tuesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,220,75,136,9,0,5.0,100.0,Rainy,220.0,Severe,218.75,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0001
+2026-05-05 19:30:00,2026-05-05,19,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,134,34,77,4,19,29.05,75.21,Foggy,100.78,High,101.3,High,3,Motorcycle-Dominant Traffic,Normal,0.1224
+2026-05-05 19:45:00,2026-05-05,19,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,122,33,70,4,15,32.72,71.39,Cloudy,87.1,High,87.31,High,3,Motorcycle-Dominant Traffic,Normal,0.1376
+2026-05-05 20:00:00,2026-05-05,20,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,57,15,33,2,7,56.56,23.59,Clear,13.45,Low,12.98,Low,0,Light Traffic,Normal,0.067
+2026-05-05 20:15:00,2026-05-05,20,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,75,25,44,1,5,36.05,45.96,Rainy,34.47,Medium,34.34,Low,0,Motorcycle-Dominant Traffic,Normal,0.127
+2026-05-05 20:30:00,2026-05-05,20,Tuesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,104,31,56,2,15,32.82,61.74,Foggy,64.21,Medium,64.03,Medium,3,Motorcycle-Dominant Traffic,Normal,0.144
+2026-05-05 20:45:00,2026-05-05,20,Tuesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,109,35,56,3,15,26.72,64.62,Foggy,70.44,High,70.5,High,3,Motorcycle-Dominant Traffic,Normal,0.126
+2026-05-05 21:00:00,2026-05-05,21,Tuesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,96,25,49,4,18,36.88,54.01,Cloudy,51.85,Medium,51.66,Medium,3,Motorcycle-Dominant Traffic,Normal,0.152
+2026-05-05 21:15:00,2026-05-05,21,Tuesday,LOC_004,Jl. Merdeka,2.3402,99.0752,64,16,38,2,8,41.66,31.43,Cloudy,20.12,Medium,20.11,Low,0,Light Traffic,Normal,0.1234
+2026-05-05 21:30:00,2026-05-05,21,Tuesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,144,41,79,7,17,27.98,76.66,Foggy,110.39,High,109.73,High,1,Motorcycle-Dominant Traffic,Normal,0.11
+2026-05-05 21:45:00,2026-05-05,21,Tuesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,100,34,63,3,0,32.59,43.9,Rainy,43.9,Medium,43.38,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1116
+2026-05-05 22:00:00,2026-05-05,22,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,46,13,26,1,6,44.09,27.64,Foggy,12.71,Medium,12.78,Low,0,Light Traffic,Normal,0.1323
+2026-05-05 22:15:00,2026-05-05,22,Tuesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,69,23,43,3,0,47.98,32.68,Rainy,22.55,Low,22.73,Low,0,Light Traffic,Normal,0.1075
+2026-05-05 22:30:00,2026-05-05,22,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,54,17,28,1,8,41.79,30.56,Foggy,16.5,Medium,16.52,Low,0,Light Traffic,Normal,0.123
+2026-05-05 22:45:00,2026-05-05,22,Tuesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,61,15,31,1,14,40.91,27.6,Foggy,16.84,Medium,16.42,Low,0,Light Traffic,Normal,0.1131
+2026-05-05 23:00:00,2026-05-05,23,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,39,12,22,1,4,54.02,20.94,Clear,8.17,Low,8.24,Low,0,Light Traffic,Normal,0.1245
+2026-05-05 23:15:00,2026-05-05,23,Tuesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,35,9,18,2,6,60.34,29.89,Clear,10.46,Low,10.4,Low,0,Light Traffic,Normal,0.0386
+2026-05-05 23:30:00,2026-05-05,23,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,30,9,17,1,3,41.98,16.67,Rainy,5.0,Medium,5.12,Low,0,Light Traffic,Normal,0.0642
+2026-05-05 23:45:00,2026-05-05,23,Tuesday,LOC_002,Jl. Sudirman,2.3348,99.0701,24,8,13,1,2,54.94,13.76,Clear,3.3,Low,3.72,Low,0,Light Traffic,Normal,0.0563
+2026-05-06 00:00:00,2026-05-06,0,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,18,4,9,0,5,61.52,7.64,Clear,1.38,Low,1.56,Low,0,Light Traffic,Anomaly,-0.0472
+2026-05-06 00:15:00,2026-05-06,0,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,39,10,24,1,4,48.05,21.42,Foggy,8.35,Low,8.4,Low,0,Light Traffic,Normal,0.1322
+2026-05-06 00:30:00,2026-05-06,0,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,81,25,48,2,6,32.3,51.22,Rainy,41.49,Medium,41.45,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1233
+2026-05-06 00:45:00,2026-05-06,0,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,49,16,30,1,2,57.14,24.09,Clear,11.8,Low,11.86,Low,0,Light Traffic,Normal,0.091
+2026-05-06 01:00:00,2026-05-06,1,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,19,6,11,0,2,59.44,9.63,Clear,1.83,Low,1.91,Low,0,Light Traffic,Anomaly,-0.011
+2026-05-06 01:15:00,2026-05-06,1,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,35,11,21,0,3,51.64,8.21,Rainy,2.87,Low,3.04,Low,0,Light Traffic,Normal,0.0417
+2026-05-06 01:30:00,2026-05-06,1,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,32,10,17,1,4,51.85,12.39,Foggy,3.96,Low,3.9,Low,0,Light Traffic,Normal,0.0786
+2026-05-06 01:45:00,2026-05-06,1,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,33,9,18,0,6,51.33,7.31,Cloudy,2.41,Low,2.46,Low,0,Light Traffic,Normal,0.0253
+2026-05-06 02:00:00,2026-05-06,2,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,59,14,35,1,9,49.35,52.99,Foggy,31.26,Medium,29.32,Low,0,Light Traffic,Normal,0.0503
+2026-05-06 02:15:00,2026-05-06,2,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,69,22,34,3,10,41.81,38.74,Cloudy,26.73,Medium,26.82,Low,0,Light Traffic,Normal,0.124
+2026-05-06 02:30:00,2026-05-06,2,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,47,15,29,2,1,56.07,20.39,Cloudy,9.58,Low,9.5,Low,0,Light Traffic,Normal,0.0995
+2026-05-06 02:45:00,2026-05-06,2,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,55,17,33,2,3,43.48,28.16,Foggy,15.49,Medium,15.47,Low,0,Light Traffic,Normal,0.1326
+2026-05-06 03:00:00,2026-05-06,3,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,48,15,30,2,1,51.85,30.59,Cloudy,14.68,Low,14.77,Low,0,Light Traffic,Normal,0.1198
+2026-05-06 03:15:00,2026-05-06,3,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,35,10,20,0,5,60.49,18.35,Cloudy,6.42,Low,6.4,Low,0,Light Traffic,Normal,0.0657
+2026-05-06 03:30:00,2026-05-06,3,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,35,9,19,1,6,47.64,23.7,Foggy,8.3,Low,7.98,Low,0,Light Traffic,Normal,0.1152
+2026-05-06 03:45:00,2026-05-06,3,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,38,10,21,0,7,45.87,28.71,Foggy,10.91,Low,10.94,Low,0,Light Traffic,Normal,0.1162
+2026-05-06 04:00:00,2026-05-06,4,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,41,11,25,1,4,58.87,23.27,Clear,9.54,Low,9.47,Low,0,Light Traffic,Normal,0.0848
+2026-05-06 04:15:00,2026-05-06,4,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,36,10,21,1,4,50.39,15.26,Rainy,5.49,Low,5.65,Low,0,Light Traffic,Normal,0.1005
+2026-05-06 04:30:00,2026-05-06,4,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,50,15,26,2,7,44.03,31.34,Cloudy,15.67,Medium,15.74,Low,0,Light Traffic,Normal,0.1359
+2026-05-06 04:45:00,2026-05-06,4,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,63,16,33,3,11,39.22,25.19,Foggy,15.87,Medium,16.53,Low,0,Mixed Traffic,Normal,0.0895
+2026-05-06 05:00:00,2026-05-06,5,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,91,28,46,2,15,27.99,53.91,Rainy,49.06,High,48.26,Medium,3,Motorcycle-Dominant Traffic,Normal,0.126
+2026-05-06 05:15:00,2026-05-06,5,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,72,23,46,3,0,41.13,31.77,Rainy,22.87,Medium,22.92,Low,0,Motorcycle-Dominant Traffic,Normal,0.0998
+2026-05-06 05:30:00,2026-05-06,5,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,84,29,52,2,1,38.45,46.18,Rainy,38.79,Medium,39.06,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1363
+2026-05-06 05:45:00,2026-05-06,5,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,85,21,44,2,18,39.09,54.38,Foggy,46.22,Medium,46.06,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1315
+2026-05-06 06:00:00,2026-05-06,6,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,108,27,57,5,19,36.96,66.67,Clear,72.0,High,71.55,High,3,Motorcycle-Dominant Traffic,Normal,0.1153
+2026-05-06 06:15:00,2026-05-06,6,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,154,51,77,6,20,28.55,90.67,Foggy,139.63,Severe,139.55,Severe,1,Motorcycle-Dominant Traffic,Normal,0.075
+2026-05-06 06:30:00,2026-05-06,6,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,172,60,100,8,4,18.18,100.0,Rainy,172.0,Severe,170.51,Severe,1,Motorcycle-Dominant Traffic,Normal,0.072
+2026-05-06 06:45:00,2026-05-06,6,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,164,44,91,7,22,17.47,80.61,Rainy,132.2,High,131.63,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0777
+2026-05-06 07:00:00,2026-05-06,7,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,119,30,70,4,15,38.79,72.06,Clear,85.75,High,85.64,High,3,Motorcycle-Dominant Traffic,Normal,0.0914
+2026-05-06 07:15:00,2026-05-06,7,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,134,46,74,3,11,31.35,74.46,Rainy,99.78,High,100.0,High,3,Motorcycle-Dominant Traffic,Normal,0.1214
+2026-05-06 07:30:00,2026-05-06,7,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,164,43,88,7,26,29.37,85.08,Clear,139.53,Severe,138.53,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0744
+2026-05-06 07:45:00,2026-05-06,7,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,160,47,96,7,10,17.66,90.6,Foggy,144.96,Severe,144.28,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0961
+2026-05-06 08:00:00,2026-05-06,8,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,136,44,85,7,0,31.42,70.65,Cloudy,96.08,High,96.65,High,3,Motorcycle-Dominant Traffic,Normal,0.1196
+2026-05-06 08:15:00,2026-05-06,8,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,206,54,115,8,29,7.05,100.0,Rainy,206.0,Severe,207.72,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0346
+2026-05-06 08:30:00,2026-05-06,8,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,155,39,85,3,28,29.54,82.07,Cloudy,127.21,High,127.93,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0872
+2026-05-06 08:45:00,2026-05-06,8,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,168,56,99,9,4,10.48,96.45,Rainy,162.04,Severe,164.11,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0541
+2026-05-06 09:00:00,2026-05-06,9,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,135,44,73,8,10,28.03,76.44,Clear,103.19,High,103.53,High,1,Motorcycle-Dominant Traffic,Normal,0.1172
+2026-05-06 09:15:00,2026-05-06,9,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,190,63,108,4,15,7.43,100.0,Rainy,190.0,Severe,190.04,Severe,1,Motorcycle-Dominant Traffic,Normal,0.064
+2026-05-06 09:30:00,2026-05-06,9,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,93,25,47,2,19,38.76,43.02,Clear,40.01,Medium,39.81,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1257
+2026-05-06 09:45:00,2026-05-06,9,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,167,44,86,4,33,15.0,95.17,Rainy,158.93,Severe,159.6,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0782
+2026-05-06 10:00:00,2026-05-06,10,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,90,25,49,2,14,36.96,48.09,Clear,43.28,Medium,43.46,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1425
+2026-05-06 10:15:00,2026-05-06,10,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,80,25,44,1,10,39.38,41.66,Rainy,33.33,Medium,33.81,Low,3,Motorcycle-Dominant Traffic,Normal,0.1257
+2026-05-06 10:30:00,2026-05-06,10,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,58,15,36,1,6,43.79,22.63,Cloudy,13.13,Medium,12.23,Low,0,Light Traffic,Normal,0.105
+2026-05-06 10:45:00,2026-05-06,10,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,82,27,47,2,6,36.96,59.02,Cloudy,48.4,Medium,47.51,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1238
+2026-05-06 11:00:00,2026-05-06,11,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,131,39,70,3,19,20.23,63.35,Rainy,82.99,High,81.31,High,1,Motorcycle-Dominant Traffic,Normal,0.0931
+2026-05-06 11:15:00,2026-05-06,11,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,122,31,76,4,11,33.46,66.17,Rainy,80.73,High,81.31,High,3,Motorcycle-Dominant Traffic,Normal,0.1416
+2026-05-06 11:30:00,2026-05-06,11,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,277,71,138,8,60,8.34,95.38,Rainy,264.2,Severe,253.53,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0598
+2026-05-06 11:45:00,2026-05-06,11,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,92,30,59,3,0,34.05,43.53,Rainy,40.05,Medium,40.46,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1283
+2026-05-06 12:00:00,2026-05-06,12,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,83,27,47,2,7,51.07,44.75,Clear,37.14,Medium,37.05,Medium,0,Motorcycle-Dominant Traffic,Normal,0.0714
+2026-05-06 12:15:00,2026-05-06,12,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,84,24,46,4,10,43.03,45.17,Clear,37.94,Medium,37.61,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1259
+2026-05-06 12:30:00,2026-05-06,12,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,123,38,70,3,12,37.75,57.85,Cloudy,71.16,Medium,73.16,High,3,Motorcycle-Dominant Traffic,Normal,0.1077
+2026-05-06 12:45:00,2026-05-06,12,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,100,26,59,4,11,29.64,51.37,Rainy,51.37,High,51.26,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1347
+2026-05-06 13:00:00,2026-05-06,13,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,123,34,76,7,6,26.09,68.67,Foggy,84.46,High,83.51,High,3,Motorcycle-Dominant Traffic,Normal,0.1363
+2026-05-06 13:15:00,2026-05-06,13,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,147,42,76,7,22,17.38,80.51,Rainy,118.35,High,117.93,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0948
+2026-05-06 13:30:00,2026-05-06,13,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,116,31,71,5,9,36.78,61.03,Clear,70.79,Medium,70.4,High,3,Motorcycle-Dominant Traffic,Normal,0.1343
+2026-05-06 13:45:00,2026-05-06,13,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,81,22,51,2,6,38.89,51.14,Rainy,41.42,Medium,41.58,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1365
+2026-05-06 14:00:00,2026-05-06,14,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,72,20,40,1,11,42.83,44.15,Foggy,31.79,Medium,31.75,Low,0,Motorcycle-Dominant Traffic,Normal,0.1307
+2026-05-06 14:15:00,2026-05-06,14,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,69,19,34,1,15,48.92,37.4,Clear,25.81,Low,25.77,Low,0,Light Traffic,Normal,0.1028
+2026-05-06 14:30:00,2026-05-06,14,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,65,17,39,2,7,34.27,45.81,Foggy,29.78,Medium,30.77,Low,0,Mixed Traffic,Normal,0.0854
+2026-05-06 14:45:00,2026-05-06,14,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,101,33,65,3,0,30.21,58.03,Rainy,58.61,Medium,58.69,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1438
+2026-05-06 15:00:00,2026-05-06,15,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,90,30,53,3,4,30.98,46.75,Cloudy,42.08,Medium,42.02,Medium,3,Motorcycle-Dominant Traffic,Normal,0.127
+2026-05-06 15:15:00,2026-05-06,15,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,109,33,55,4,17,30.6,61.99,Foggy,67.57,Medium,67.67,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1413
+2026-05-06 15:30:00,2026-05-06,15,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,79,20,42,3,14,37.55,45.13,Foggy,35.65,Medium,35.94,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1365
+2026-05-06 15:45:00,2026-05-06,15,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,89,23,48,3,15,37.95,52.99,Cloudy,47.16,Medium,46.66,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1427
+2026-05-06 16:00:00,2026-05-06,16,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,164,44,101,7,12,25.43,94.83,Clear,155.52,Severe,154.54,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0658
+2026-05-06 16:15:00,2026-05-06,16,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,146,37,81,3,25,22.89,87.59,Foggy,127.88,Severe,127.63,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0945
+2026-05-06 16:30:00,2026-05-06,16,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,162,40,89,9,24,27.48,92.53,Clear,149.9,Severe,147.95,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0727
+2026-05-06 16:45:00,2026-05-06,16,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,153,47,82,7,17,27.23,82.72,Cloudy,126.56,High,127.75,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0955
+2026-05-06 17:00:00,2026-05-06,17,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,113,39,61,2,11,34.57,67.73,Foggy,76.53,High,75.89,High,3,Motorcycle-Dominant Traffic,Normal,0.1274
+2026-05-06 17:15:00,2026-05-06,17,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,157,54,93,5,5,17.33,86.07,Foggy,135.13,Severe,135.66,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0901
+2026-05-06 17:30:00,2026-05-06,17,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,140,46,77,8,9,25.43,75.44,Cloudy,105.62,High,105.64,High,1,Motorcycle-Dominant Traffic,Normal,0.1166
+2026-05-06 17:45:00,2026-05-06,17,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,94,24,60,2,8,42.8,46.48,Clear,43.69,Medium,43.07,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1175
+2026-05-06 18:00:00,2026-05-06,18,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,125,37,67,5,16,15.79,73.57,Foggy,91.96,High,92.0,High,1,Motorcycle-Dominant Traffic,Normal,0.0687
+2026-05-06 18:15:00,2026-05-06,18,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,135,45,79,7,4,27.45,83.74,Clear,113.05,High,115.8,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0884
+2026-05-06 18:30:00,2026-05-06,18,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,143,48,90,4,1,25.3,73.92,Cloudy,105.71,High,105.15,High,3,Motorcycle-Dominant Traffic,Normal,0.1191
+2026-05-06 18:45:00,2026-05-06,18,Wednesday,LOC_004,Jl. Merdeka,2.3402,99.0752,135,36,71,4,24,30.14,73.71,Foggy,99.51,High,99.8,High,1,Motorcycle-Dominant Traffic,Normal,0.1178
+2026-05-06 19:00:00,2026-05-06,19,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,184,51,106,7,20,8.72,100.0,Rainy,184.0,Severe,183.87,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0729
+2026-05-06 19:15:00,2026-05-06,19,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,194,51,109,4,30,12.15,100.0,Rainy,194.0,Severe,193.79,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0788
+2026-05-06 19:30:00,2026-05-06,19,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,206,70,123,10,3,5.0,100.0,Rainy,206.0,Severe,206.68,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0241
+2026-05-06 19:45:00,2026-05-06,19,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,206,59,130,6,11,7.01,100.0,Foggy,206.0,Severe,210.4,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0346
+2026-05-06 20:00:00,2026-05-06,20,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,59,20,30,1,8,56.9,33.52,Cloudy,19.78,Low,19.81,Low,0,Light Traffic,Normal,0.0726
+2026-05-06 20:15:00,2026-05-06,20,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,101,25,61,4,11,29.94,56.5,Foggy,57.06,High,57.26,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1486
+2026-05-06 20:30:00,2026-05-06,20,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,102,35,55,5,7,31.53,56.34,Cloudy,57.47,Medium,57.56,Medium,3,Motorcycle-Dominant Traffic,Normal,0.156
+2026-05-06 20:45:00,2026-05-06,20,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,294,84,174,8,28,9.62,99.92,Clear,293.76,Severe,288.7,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.1004
+2026-05-06 21:00:00,2026-05-06,21,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,125,38,67,4,16,20.41,71.59,Rainy,89.49,High,89.89,High,3,Motorcycle-Dominant Traffic,Normal,0.0992
+2026-05-06 21:15:00,2026-05-06,21,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,89,25,50,3,11,37.42,54.64,Cloudy,48.63,Medium,48.12,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1397
+2026-05-06 21:30:00,2026-05-06,21,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,71,19,44,2,6,32.92,41.87,Cloudy,29.73,Medium,29.78,Low,3,Motorcycle-Dominant Traffic,Normal,0.0925
+2026-05-06 21:45:00,2026-05-06,21,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,105,31,58,3,13,36.51,60.58,Cloudy,63.61,Medium,63.33,Medium,3,Motorcycle-Dominant Traffic,Normal,0.142
+2026-05-06 22:00:00,2026-05-06,22,Wednesday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,38,11,21,1,5,52.64,21.91,Cloudy,8.33,Low,8.34,Low,0,Light Traffic,Normal,0.1283
+2026-05-06 22:15:00,2026-05-06,22,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,50,16,29,1,4,40.65,26.74,Rainy,13.37,Medium,13.36,Low,0,Light Traffic,Normal,0.1222
+2026-05-06 22:30:00,2026-05-06,22,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,47,12,28,1,6,53.88,15.18,Clear,7.13,Low,7.55,Low,0,Light Traffic,Normal,0.0851
+2026-05-06 22:45:00,2026-05-06,22,Wednesday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,50,16,31,2,1,44.01,24.23,Cloudy,12.12,Medium,12.19,Low,0,Light Traffic,Normal,0.1261
+2026-05-06 23:00:00,2026-05-06,23,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,46,14,25,2,5,42.36,52.99,Rainy,24.38,Medium,24.52,Low,0,Light Traffic,Normal,0.059
+2026-05-06 23:15:00,2026-05-06,23,Wednesday,LOC_002,Jl. Sudirman,2.3348,99.0701,31,8,16,1,6,56.88,14.58,Clear,4.52,Low,4.52,Low,0,Light Traffic,Normal,0.0994
+2026-05-06 23:30:00,2026-05-06,23,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,31,10,17,1,3,55.54,18.99,Cloudy,5.89,Low,6.02,Low,0,Light Traffic,Normal,0.1162
+2026-05-06 23:45:00,2026-05-06,23,Wednesday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,56,19,35,2,0,37.92,39.62,Rainy,22.19,Medium,22.91,Low,0,Mixed Traffic,Normal,0.0989
+2026-05-07 00:00:00,2026-05-07,0,Thursday,LOC_002,Jl. Sudirman,2.3348,99.0701,52,15,31,2,4,50.53,27.4,Rainy,14.25,Low,14.0,Low,0,Light Traffic,Normal,0.125
+2026-05-07 00:15:00,2026-05-07,0,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,53,16,33,2,2,40.88,23.86,Cloudy,12.65,Medium,12.57,Low,0,Light Traffic,Normal,0.1029
+2026-05-07 00:30:00,2026-05-07,0,Thursday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,32,9,20,1,2,58.24,21.14,Clear,6.76,Low,6.73,Low,0,Light Traffic,Normal,0.0864
+2026-05-07 00:45:00,2026-05-07,0,Thursday,LOC_002,Jl. Sudirman,2.3348,99.0701,24,6,13,0,5,52.62,15.43,Foggy,3.7,Low,3.71,Low,0,Light Traffic,Normal,0.0522
+2026-05-07 01:00:00,2026-05-07,1,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,32,10,19,1,2,62.12,24.51,Clear,7.84,Low,8.27,Low,0,Light Traffic,Normal,0.0323
+2026-05-07 01:15:00,2026-05-07,1,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,48,16,25,1,6,53.6,32.02,Foggy,15.37,Low,15.45,Low,0,Light Traffic,Normal,0.1076
+2026-05-07 01:30:00,2026-05-07,1,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,28,7,17,1,3,51.45,11.98,Rainy,3.35,Low,3.33,Low,0,Light Traffic,Normal,0.0616
+2026-05-07 01:45:00,2026-05-07,1,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,30,8,17,0,5,56.3,10.62,Clear,3.19,Low,2.69,Low,0,Light Traffic,Normal,0.0646
+2026-05-07 02:00:00,2026-05-07,2,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,36,10,18,0,8,54.01,14.34,Cloudy,5.16,Low,5.46,Low,0,Light Traffic,Normal,0.0962
+2026-05-07 02:15:00,2026-05-07,2,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,46,11,24,2,9,55.46,52.99,Clear,24.38,Medium,24.87,Low,0,Light Traffic,Normal,0.0005
+2026-05-07 02:30:00,2026-05-07,2,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,51,12,25,2,12,47.21,26.54,Rainy,13.54,Low,13.47,Low,0,Light Traffic,Normal,0.1332
+2026-05-07 02:45:00,2026-05-07,2,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,29,7,17,1,4,57.39,15.92,Clear,4.62,Low,4.66,Low,0,Light Traffic,Normal,0.0976
+2026-05-07 03:00:00,2026-05-07,3,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,33,10,21,1,1,36.96,13.24,Foggy,4.37,Medium,4.37,Low,0,Mixed Traffic,Normal,0.0224
+2026-05-07 03:15:00,2026-05-07,3,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,45,12,28,1,4,47.35,21.99,Foggy,9.9,Low,9.78,Low,0,Light Traffic,Normal,0.1259
+2026-05-07 03:30:00,2026-05-07,3,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,59,16,31,3,9,46.13,22.85,Foggy,13.48,Low,12.48,Low,0,Light Traffic,Normal,0.1019
+2026-05-07 03:45:00,2026-05-07,3,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,22,5,13,0,4,47.87,10.35,Clear,2.28,Low,2.3,Low,0,Light Traffic,Normal,0.0057
+2026-05-07 04:00:00,2026-05-07,4,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,46,12,26,1,7,38.97,28.6,Rainy,13.16,Medium,13.1,Low,0,Mixed Traffic,Normal,0.103
+2026-05-07 04:15:00,2026-05-07,4,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,53,14,27,1,11,44.13,20.69,Cloudy,10.97,Medium,10.67,Low,0,Light Traffic,Normal,0.1032
+2026-05-07 04:30:00,2026-05-07,4,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,45,13,22,2,8,51.38,27.63,Cloudy,12.43,Low,12.42,Low,0,Light Traffic,Normal,0.1261
+2026-05-07 04:45:00,2026-05-07,4,Thursday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,30,10,16,1,3,45.49,12.9,Rainy,3.87,Low,4.09,Low,0,Light Traffic,Normal,0.0669
+2026-05-07 05:00:00,2026-05-07,5,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,57,18,34,2,3,40.74,29.79,Rainy,16.98,Medium,16.85,Low,0,Light Traffic,Normal,0.1219
+2026-05-07 05:15:00,2026-05-07,5,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,83,26,43,2,12,33.46,50.58,Foggy,41.98,Medium,42.12,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1341
+2026-05-07 05:30:00,2026-05-07,5,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,105,29,66,4,6,46.07,51.76,Clear,54.35,Medium,54.59,Medium,3,Motorcycle-Dominant Traffic,Normal,0.0795
+2026-05-07 05:45:00,2026-05-07,5,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,110,31,62,4,13,33.01,63.3,Cloudy,69.63,Medium,70.09,High,3,Motorcycle-Dominant Traffic,Normal,0.1385
+2026-05-07 06:00:00,2026-05-07,6,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,112,34,69,5,4,32.7,65.54,Foggy,73.4,High,73.41,High,3,Motorcycle-Dominant Traffic,Normal,0.1385
+2026-05-07 06:15:00,2026-05-07,6,Thursday,LOC_002,Jl. Sudirman,2.3348,99.0701,138,46,74,3,15,28.1,78.92,Foggy,108.91,High,111.33,Severe,3,Motorcycle-Dominant Traffic,Normal,0.1072
+2026-05-07 06:30:00,2026-05-07,6,Thursday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,143,44,84,6,9,18.54,70.84,Foggy,101.3,High,100.5,High,1,Motorcycle-Dominant Traffic,Normal,0.0821
+2026-05-07 06:45:00,2026-05-07,6,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,132,43,71,3,15,21.8,77.12,Foggy,101.8,High,101.6,High,3,Motorcycle-Dominant Traffic,Normal,0.1143
+2026-05-07 07:00:00,2026-05-07,7,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,206,52,109,5,40,36.96,100.0,Rainy,206.0,Severe,208.67,Severe,1,Motorcycle-Dominant Traffic,Anomaly,-0.0467
+2026-05-07 07:15:00,2026-05-07,7,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,123,39,62,4,18,29.37,68.14,Rainy,83.81,High,83.71,High,3,Motorcycle-Dominant Traffic,Normal,0.143
+2026-05-07 07:30:00,2026-05-07,7,Thursday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,134,34,67,4,29,15.4,74.82,Rainy,100.26,High,100.19,High,1,Motorcycle-Dominant Traffic,Normal,0.0694
+2026-05-07 07:45:00,2026-05-07,7,Thursday,LOC_002,Jl. Sudirman,2.3348,99.0701,143,43,80,3,17,27.28,73.17,Foggy,104.63,High,104.16,High,1,Motorcycle-Dominant Traffic,Normal,0.1132
+2026-05-07 08:00:00,2026-05-07,8,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,154,46,90,3,15,36.96,86.54,Clear,133.27,Severe,133.77,Severe,3,Motorcycle-Dominant Traffic,Normal,0.0369
+2026-05-07 08:15:00,2026-05-07,8,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,303,84,172,17,30,6.59,93.17,Clear,282.31,Severe,289.6,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0926
+2026-05-07 08:30:00,2026-05-07,8,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,266,78,151,5,32,3.18,97.53,Clear,259.43,Severe,259.79,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0714
+2026-05-07 08:45:00,2026-05-07,8,Thursday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,131,36,84,2,9,25.73,69.22,Cloudy,90.68,High,90.0,High,3,Motorcycle-Dominant Traffic,Normal,0.1305
+2026-05-07 09:00:00,2026-05-07,9,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,150,37,88,7,18,33.25,89.16,Clear,133.74,Severe,134.01,Severe,1,Motorcycle-Dominant Traffic,Normal,0.055
+2026-05-07 09:15:00,2026-05-07,9,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,155,44,90,3,18,19.18,89.34,Rainy,138.48,Severe,139.88,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0989
+2026-05-07 09:30:00,2026-05-07,9,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,172,56,104,4,8,12.51,89.07,Foggy,153.2,Severe,153.63,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0543
+2026-05-07 09:45:00,2026-05-07,9,Thursday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,119,36,59,6,18,29.57,68.88,Foggy,81.97,High,82.23,High,3,Motorcycle-Dominant Traffic,Normal,0.1425
+2026-05-07 10:00:00,2026-05-07,10,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,108,31,62,4,11,30.12,53.06,Rainy,57.3,Medium,57.36,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1339
+2026-05-07 10:15:00,2026-05-07,10,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,99,27,50,2,20,37.92,52.99,Rainy,52.46,Medium,51.95,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1446
+2026-05-07 10:30:00,2026-05-07,10,Thursday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,85,23,46,3,13,45.1,53.25,Clear,45.26,Medium,45.29,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1074
+2026-05-07 10:45:00,2026-05-07,10,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,102,26,55,4,17,37.37,51.54,Cloudy,52.57,Medium,53.15,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1409
+2026-05-07 11:00:00,2026-05-07,11,Thursday,LOC_002,Jl. Sudirman,2.3348,99.0701,123,41,75,4,3,32.5,72.06,Foggy,88.63,High,88.64,High,3,Motorcycle-Dominant Traffic,Normal,0.1305
+2026-05-07 11:15:00,2026-05-07,11,Thursday,LOC_002,Jl. Sudirman,2.3348,99.0701,113,28,59,3,23,45.09,57.7,Clear,65.2,Medium,64.38,Medium,3,Motorcycle-Dominant Traffic,Normal,0.0812
+2026-05-07 11:30:00,2026-05-07,11,Thursday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,100,34,51,2,13,33.67,68.33,Rainy,68.33,High,66.47,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1019
+2026-05-07 11:45:00,2026-05-07,11,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,134,34,77,2,21,24.28,69.92,Rainy,93.69,High,94.24,High,3,Motorcycle-Dominant Traffic,Normal,0.1207
+2026-05-07 12:00:00,2026-05-07,12,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,88,29,52,1,6,41.03,58.74,Cloudy,51.69,Medium,50.99,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1154
+2026-05-07 12:15:00,2026-05-07,12,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,71,19,38,3,11,53.61,42.31,Clear,30.04,Medium,30.11,Low,0,Motorcycle-Dominant Traffic,Normal,0.0584
+2026-05-07 12:30:00,2026-05-07,12,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,144,38,82,6,18,15.63,69.87,Rainy,100.61,High,100.33,High,1,Motorcycle-Dominant Traffic,Normal,0.0621
+2026-05-07 12:45:00,2026-05-07,12,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,129,32,82,4,11,25.64,77.82,Cloudy,100.39,High,100.15,High,3,Motorcycle-Dominant Traffic,Normal,0.124
+2026-05-07 13:00:00,2026-05-07,13,Thursday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,93,27,57,3,6,40.26,52.76,Rainy,49.07,Medium,49.44,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1403
+2026-05-07 13:15:00,2026-05-07,13,Thursday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,93,26,60,2,5,34.06,41.02,Rainy,38.15,Medium,38.51,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1029
+2026-05-07 13:30:00,2026-05-07,13,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,285,83,153,14,35,5.76,91.52,Cloudy,260.83,Severe,258.61,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0727
+2026-05-07 13:45:00,2026-05-07,13,Thursday,LOC_002,Jl. Sudirman,2.3348,99.0701,107,31,67,3,6,29.41,69.21,Foggy,74.05,High,73.97,High,3,Motorcycle-Dominant Traffic,Normal,0.1192
+2026-05-07 14:00:00,2026-05-07,14,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,93,31,57,4,1,39.46,63.89,Cloudy,59.42,Medium,59.64,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1057
+2026-05-07 14:15:00,2026-05-07,14,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,88,25,51,2,10,41.88,44.07,Clear,38.78,Medium,38.69,Medium,3,Motorcycle-Dominant Traffic,Normal,0.127
+2026-05-07 14:30:00,2026-05-07,14,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,95,24,50,3,18,35.34,57.76,Cloudy,54.87,Medium,54.92,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1529
+2026-05-07 14:45:00,2026-05-07,14,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,72,20,42,3,7,37.74,40.39,Foggy,29.08,Medium,29.2,Low,3,Motorcycle-Dominant Traffic,Normal,0.1216
+2026-05-07 15:00:00,2026-05-07,15,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,85,23,47,2,13,36.31,46.11,Rainy,39.19,Medium,38.46,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1414
+2026-05-07 15:15:00,2026-05-07,15,Thursday,LOC_002,Jl. Sudirman,2.3348,99.0701,86,22,50,4,10,37.52,55.22,Rainy,47.49,Medium,47.62,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1318
+2026-05-07 15:30:00,2026-05-07,15,Thursday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,114,37,71,3,3,26.88,52.99,Rainy,60.41,High,60.47,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1153
+2026-05-07 15:45:00,2026-05-07,15,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,75,21,37,3,14,48.98,42.3,Clear,31.72,Medium,31.57,Low,0,Motorcycle-Dominant Traffic,Normal,0.1019
+2026-05-07 16:00:00,2026-05-07,16,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,176,60,109,3,4,26.19,94.83,Cloudy,166.9,Severe,166.02,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0434
+2026-05-07 16:15:00,2026-05-07,16,Thursday,LOC_002,Jl. Sudirman,2.3348,99.0701,154,45,80,7,22,24.3,84.82,Clear,130.62,High,131.19,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1198
+2026-05-07 16:30:00,2026-05-07,16,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,223,60,124,8,31,5.0,100.0,Rainy,223.0,Severe,219.47,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0043
+2026-05-07 16:45:00,2026-05-07,16,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,138,45,76,5,12,26.28,82.17,Foggy,113.39,High,114.56,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1069
+2026-05-07 17:00:00,2026-05-07,17,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,129,44,72,5,8,32.13,64.95,Foggy,83.79,Medium,82.55,High,3,Motorcycle-Dominant Traffic,Normal,0.1308
+2026-05-07 17:15:00,2026-05-07,17,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,141,43,83,3,12,22.33,75.26,Rainy,106.12,High,106.04,High,1,Motorcycle-Dominant Traffic,Normal,0.1192
+2026-05-07 17:30:00,2026-05-07,17,Thursday,LOC_002,Jl. Sudirman,2.3348,99.0701,145,45,77,3,20,35.1,74.47,Clear,107.98,High,107.4,High,3,Motorcycle-Dominant Traffic,Normal,0.0807
+2026-05-07 17:45:00,2026-05-07,17,Thursday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,142,38,74,5,25,22.99,76.09,Foggy,108.05,High,107.41,High,1,Motorcycle-Dominant Traffic,Normal,0.1198
+2026-05-07 18:00:00,2026-05-07,18,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,178,59,99,4,16,20.71,95.25,Rainy,169.54,Severe,169.66,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0683
+2026-05-07 18:15:00,2026-05-07,18,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,176,54,89,7,26,15.63,100.0,Foggy,176.0,Severe,170.32,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0759
+2026-05-07 18:30:00,2026-05-07,18,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,193,49,115,11,18,5.0,100.0,Rainy,193.0,Severe,190.97,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0413
+2026-05-07 18:45:00,2026-05-07,18,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,189,50,96,4,39,14.96,99.7,Cloudy,188.43,Severe,188.61,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0765
+2026-05-07 19:00:00,2026-05-07,19,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,100,31,64,5,0,35.11,53.33,Clear,53.33,Medium,52.66,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1411
+2026-05-07 19:15:00,2026-05-07,19,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,167,43,97,3,24,24.86,99.71,Cloudy,166.52,Severe,166.45,Severe,1,Motorcycle-Dominant Traffic,Normal,0.052
+2026-05-07 19:30:00,2026-05-07,19,Thursday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,128,32,71,4,21,19.59,71.66,Cloudy,91.72,High,91.46,High,1,Motorcycle-Dominant Traffic,Normal,0.0984
+2026-05-07 19:45:00,2026-05-07,19,Thursday,LOC_002,Jl. Sudirman,2.3348,99.0701,186,52,113,6,15,9.19,100.0,Rainy,186.0,Severe,185.51,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0777
+2026-05-07 20:00:00,2026-05-07,20,Thursday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,93,28,55,3,7,31.61,47.18,Rainy,43.88,Medium,43.3,Medium,3,Motorcycle-Dominant Traffic,Normal,0.13
+2026-05-07 20:15:00,2026-05-07,20,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,79,27,48,2,2,45.43,44.14,Clear,34.87,Medium,34.78,Low,0,Motorcycle-Dominant Traffic,Normal,0.1246
+2026-05-07 20:30:00,2026-05-07,20,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,62,21,34,1,6,36.96,31.46,Foggy,19.51,Medium,19.68,Low,0,Mixed Traffic,Normal,0.0965
+2026-05-07 20:45:00,2026-05-07,20,Thursday,LOC_002,Jl. Sudirman,2.3348,99.0701,96,28,58,4,6,39.74,55.71,Cloudy,53.48,Medium,53.63,Medium,3,Motorcycle-Dominant Traffic,Normal,0.135
+2026-05-07 21:00:00,2026-05-07,21,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,53,16,29,1,7,50.45,30.23,Cloudy,16.02,Low,16.04,Low,0,Light Traffic,Normal,0.123
+2026-05-07 21:15:00,2026-05-07,21,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,106,33,55,3,15,28.17,53.02,Rainy,56.2,High,56.29,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1297
+2026-05-07 21:30:00,2026-05-07,21,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,106,30,59,4,13,40.77,52.99,Foggy,56.17,Medium,55.68,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1235
+2026-05-07 21:45:00,2026-05-07,21,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,112,34,63,4,11,33.72,58.16,Foggy,65.14,Medium,65.07,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1463
+2026-05-07 22:00:00,2026-05-07,22,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,54,16,33,1,4,44.86,33.07,Foggy,17.86,Medium,17.82,Low,0,Light Traffic,Normal,0.1211
+2026-05-07 22:15:00,2026-05-07,22,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,80,25,49,3,3,32.55,44.27,Rainy,35.42,Medium,35.65,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1137
+2026-05-07 22:30:00,2026-05-07,22,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,42,12,24,1,5,42.23,23.32,Foggy,9.79,Medium,9.78,Low,0,Light Traffic,Normal,0.0966
+2026-05-07 22:45:00,2026-05-07,22,Thursday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,46,14,24,0,8,50.06,26.17,Foggy,12.04,Low,12.2,Low,0,Light Traffic,Normal,0.122
+2026-05-07 23:00:00,2026-05-07,23,Thursday,LOC_004,Jl. Merdeka,2.3402,99.0752,36,11,18,1,6,42.8,22.9,Rainy,8.24,Medium,8.32,Low,0,Light Traffic,Normal,0.0985
+2026-05-07 23:15:00,2026-05-07,23,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,24,6,15,0,3,53.92,18.7,Foggy,4.49,Low,4.92,Low,0,Light Traffic,Normal,0.0685
+2026-05-07 23:30:00,2026-05-07,23,Thursday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,62,18,38,3,3,45.12,35.17,Rainy,21.81,Low,21.69,Low,0,Light Traffic,Normal,0.1212
+2026-05-07 23:45:00,2026-05-07,23,Thursday,LOC_002,Jl. Sudirman,2.3348,99.0701,55,15,28,1,11,41.99,25.22,Foggy,13.87,Medium,14.05,Low,0,Light Traffic,Normal,0.1108
+2026-05-08 00:00:00,2026-05-08,0,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,60,18,33,1,8,55.33,25.89,Clear,15.53,Low,15.56,Low,0,Light Traffic,Normal,0.0853
+2026-05-08 00:15:00,2026-05-08,0,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,31,8,16,1,6,61.52,20.24,Clear,6.27,Low,6.23,Low,0,Light Traffic,Normal,0.0519
+2026-05-08 00:30:00,2026-05-08,0,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,253,83,134,7,29,11.78,99.66,Foggy,252.14,Severe,244.24,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0434
+2026-05-08 00:45:00,2026-05-08,0,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,44,12,22,2,8,44.7,20.85,Foggy,9.17,Medium,8.99,Low,0,Light Traffic,Normal,0.1192
+2026-05-08 01:00:00,2026-05-08,1,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,67,21,35,3,8,48.25,33.19,Clear,22.24,Low,22.29,Low,0,Light Traffic,Normal,0.112
+2026-05-08 01:15:00,2026-05-08,1,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,17,5,9,0,3,52.03,11.42,Rainy,1.94,Low,2.39,Low,0,Light Traffic,Anomaly,-0.0039
+2026-05-08 01:30:00,2026-05-08,1,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,45,15,27,1,2,53.69,26.91,Cloudy,12.11,Low,12.43,Low,0,Light Traffic,Normal,0.1123
+2026-05-08 01:45:00,2026-05-08,1,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,26,7,15,0,4,47.59,14.68,Cloudy,3.82,Low,3.86,Low,0,Light Traffic,Normal,0.0561
+2026-05-08 02:00:00,2026-05-08,2,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,70,19,42,2,7,43.71,34.72,Clear,24.3,Medium,24.28,Low,0,Motorcycle-Dominant Traffic,Normal,0.1117
+2026-05-08 02:15:00,2026-05-08,2,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,36,12,22,1,1,54.69,21.33,Cloudy,7.68,Low,7.88,Low,0,Light Traffic,Normal,0.1193
+2026-05-08 02:30:00,2026-05-08,2,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,39,11,25,1,2,48.73,21.55,Rainy,8.4,Low,8.43,Low,0,Light Traffic,Normal,0.1301
+2026-05-08 02:45:00,2026-05-08,2,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,33,9,17,1,6,54.78,19.4,Cloudy,6.4,Low,6.4,Low,0,Light Traffic,Normal,0.1136
+2026-05-08 03:00:00,2026-05-08,3,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,59,19,37,1,2,45.53,34.44,Cloudy,20.32,Low,20.2,Low,0,Light Traffic,Normal,0.1232
+2026-05-08 03:15:00,2026-05-08,3,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,38,10,22,1,5,53.14,32.17,Cloudy,12.22,Low,12.46,Low,0,Light Traffic,Normal,0.0898
+2026-05-08 03:30:00,2026-05-08,3,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,37,12,22,0,3,49.84,19.91,Cloudy,7.37,Low,7.51,Low,0,Light Traffic,Normal,0.1215
+2026-05-08 03:45:00,2026-05-08,3,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,53,17,31,2,3,48.18,31.14,Cloudy,16.5,Low,16.55,Low,0,Light Traffic,Normal,0.1243
+2026-05-08 04:00:00,2026-05-08,4,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,46,12,27,2,5,50.99,24.54,Foggy,11.29,Low,11.28,Low,0,Light Traffic,Normal,0.1215
+2026-05-08 04:15:00,2026-05-08,4,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,70,20,43,1,6,42.21,45.03,Foggy,31.52,Medium,33.11,Low,0,Motorcycle-Dominant Traffic,Normal,0.1259
+2026-05-08 04:30:00,2026-05-08,4,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,60,18,34,2,6,38.6,35.23,Rainy,21.14,Medium,21.31,Low,0,Mixed Traffic,Normal,0.1038
+2026-05-08 04:45:00,2026-05-08,4,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,41,10,24,2,5,56.62,28.06,Cloudy,11.5,Low,11.34,Low,0,Light Traffic,Normal,0.09
+2026-05-08 05:00:00,2026-05-08,5,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,70,18,42,2,8,46.24,39.25,Clear,27.48,Low,27.12,Low,0,Motorcycle-Dominant Traffic,Normal,0.1178
+2026-05-08 05:15:00,2026-05-08,5,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,71,19,42,2,8,40.69,40.98,Foggy,29.1,Medium,29.42,Low,0,Motorcycle-Dominant Traffic,Normal,0.1251
+2026-05-08 05:30:00,2026-05-08,5,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,81,20,42,3,16,42.16,44.7,Rainy,36.21,Medium,36.56,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1411
+2026-05-08 05:45:00,2026-05-08,5,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,87,24,48,3,12,47.3,47.54,Clear,41.36,Medium,40.94,Medium,3,Motorcycle-Dominant Traffic,Normal,0.0928
+2026-05-08 06:00:00,2026-05-08,6,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,150,52,78,4,16,36.73,84.41,Clear,126.62,High,126.87,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0458
+2026-05-08 06:15:00,2026-05-08,6,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,122,35,71,4,12,26.01,70.69,Foggy,86.24,High,87.26,High,3,Motorcycle-Dominant Traffic,Normal,0.1346
+2026-05-08 06:30:00,2026-05-08,6,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,101,29,56,3,13,44.03,56.53,Clear,57.1,Medium,57.17,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1033
+2026-05-08 06:45:00,2026-05-08,6,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,209,64,114,12,19,7.92,100.0,Rainy,209.0,Severe,207.95,Severe,2,Motorcycle-Dominant Traffic,Normal,0.033
+2026-05-08 07:00:00,2026-05-08,7,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,106,30,56,3,17,37.86,61.28,Clear,64.96,Medium,64.55,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1338
+2026-05-08 07:15:00,2026-05-08,7,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,182,47,95,4,36,14.79,100.0,Foggy,182.0,Severe,180.39,Severe,1,Motorcycle-Dominant Traffic,Normal,0.085
+2026-05-08 07:30:00,2026-05-08,7,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,84,23,48,2,11,43.27,53.94,Clear,45.31,Medium,45.44,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1191
+2026-05-08 07:45:00,2026-05-08,7,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,110,27,56,6,21,39.51,58.87,Cloudy,64.76,Medium,64.82,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1177
+2026-05-08 08:00:00,2026-05-08,8,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,120,36,72,6,6,21.12,65.6,Foggy,78.72,High,78.72,High,3,Motorcycle-Dominant Traffic,Normal,0.1038
+2026-05-08 08:15:00,2026-05-08,8,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,160,47,103,9,1,18.75,93.01,Cloudy,148.82,Severe,148.84,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0987
+2026-05-08 08:30:00,2026-05-08,8,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,177,45,111,8,13,14.82,91.23,Foggy,161.48,Severe,161.12,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0606
+2026-05-08 08:45:00,2026-05-08,8,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,183,51,113,9,10,8.12,97.87,Rainy,179.1,Severe,178.75,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0445
+2026-05-08 09:00:00,2026-05-08,9,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,138,39,77,7,15,29.39,76.59,Cloudy,105.69,High,105.58,High,1,Motorcycle-Dominant Traffic,Normal,0.1145
+2026-05-08 09:15:00,2026-05-08,9,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,170,44,93,9,24,18.9,92.81,Cloudy,157.78,Severe,157.07,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0772
+2026-05-08 09:30:00,2026-05-08,9,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,97,31,50,2,14,30.06,49.43,Foggy,47.95,Medium,47.75,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1328
+2026-05-08 09:45:00,2026-05-08,9,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,146,49,74,4,19,26.22,52.99,Cloudy,77.37,High,80.27,High,1,Motorcycle-Dominant Traffic,Normal,0.0658
+2026-05-08 10:00:00,2026-05-08,10,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,94,31,49,1,13,31.85,60.07,Rainy,56.47,Medium,57.22,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1416
+2026-05-08 10:15:00,2026-05-08,10,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,82,27,51,4,0,38.09,46.06,Foggy,37.77,Medium,38.32,Medium,3,Motorcycle-Dominant Traffic,Normal,0.141
+2026-05-08 10:30:00,2026-05-08,10,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,63,18,35,2,8,37.19,37.44,Rainy,23.59,Medium,23.81,Low,0,Mixed Traffic,Normal,0.0952
+2026-05-08 10:45:00,2026-05-08,10,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,74,20,38,2,14,49.12,45.17,Clear,33.43,Medium,33.88,Low,0,Motorcycle-Dominant Traffic,Normal,0.1018
+2026-05-08 11:00:00,2026-05-08,11,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,72,18,41,2,11,48.68,37.48,Rainy,26.99,Low,26.91,Low,0,Motorcycle-Dominant Traffic,Normal,0.1021
+2026-05-08 11:15:00,2026-05-08,11,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,82,28,44,4,6,36.96,44.94,Clear,36.85,Medium,36.92,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1458
+2026-05-08 11:30:00,2026-05-08,11,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,112,29,71,5,7,26.26,68.8,Foggy,77.06,High,76.87,High,3,Motorcycle-Dominant Traffic,Normal,0.131
+2026-05-08 11:45:00,2026-05-08,11,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,98,30,54,2,12,37.23,56.85,Rainy,55.71,Medium,55.82,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1463
+2026-05-08 12:00:00,2026-05-08,12,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,104,32,56,3,13,33.89,59.27,Cloudy,61.64,Medium,61.29,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1515
+2026-05-08 12:15:00,2026-05-08,12,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,70,20,43,1,6,45.04,35.34,Clear,24.74,Low,24.6,Low,0,Motorcycle-Dominant Traffic,Normal,0.1114
+2026-05-08 12:30:00,2026-05-08,12,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,118,37,69,4,8,27.01,63.12,Cloudy,74.48,High,74.52,High,3,Motorcycle-Dominant Traffic,Normal,0.1387
+2026-05-08 12:45:00,2026-05-08,12,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,111,36,63,3,9,34.43,56.13,Rainy,62.3,Medium,62.42,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1451
+2026-05-08 13:00:00,2026-05-08,13,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,71,19,41,2,9,43.64,36.76,Cloudy,26.1,Medium,26.16,Low,0,Motorcycle-Dominant Traffic,Normal,0.1143
+2026-05-08 13:15:00,2026-05-08,13,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,98,24,62,3,9,39.01,50.8,Clear,49.78,Medium,49.56,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1406
+2026-05-08 13:30:00,2026-05-08,13,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,100,30,63,4,3,40.61,53.2,Foggy,53.2,Medium,52.77,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1298
+2026-05-08 13:45:00,2026-05-08,13,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,83,23,52,2,6,38.29,52.07,Cloudy,43.22,Medium,43.71,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1413
+2026-05-08 14:00:00,2026-05-08,14,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,96,26,48,3,19,41.97,57.05,Clear,54.77,Medium,54.83,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1283
+2026-05-08 14:15:00,2026-05-08,14,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,65,19,41,2,3,40.49,38.79,Rainy,25.21,Medium,25.25,Low,0,Light Traffic,Normal,0.1146
+2026-05-08 14:30:00,2026-05-08,14,Friday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,92,28,58,4,2,33.35,48.41,Rainy,44.54,Medium,44.2,Medium,3,Motorcycle-Dominant Traffic,Normal,0.136
+2026-05-08 14:45:00,2026-05-08,14,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,86,28,48,2,8,46.07,51.33,Cloudy,44.14,Medium,43.88,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1033
+2026-05-08 15:00:00,2026-05-08,15,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,105,26,58,3,18,32.27,55.56,Rainy,58.34,Medium,58.29,Medium,3,Motorcycle-Dominant Traffic,Normal,0.149
+2026-05-08 15:15:00,2026-05-08,15,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,86,24,52,3,7,42.84,44.09,Cloudy,37.92,Medium,38.18,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1232
+2026-05-08 15:30:00,2026-05-08,15,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,67,21,36,2,8,46.12,32.8,Cloudy,21.98,Low,22.08,Low,0,Light Traffic,Normal,0.1145
+2026-05-08 15:45:00,2026-05-08,15,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,48,14,30,2,2,51.61,18.61,Clear,8.93,Low,9.28,Low,0,Light Traffic,Normal,0.1168
+2026-05-08 16:00:00,2026-05-08,16,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,122,30,61,7,24,33.15,71.54,Clear,87.28,High,87.66,High,1,Motorcycle-Dominant Traffic,Normal,0.1375
+2026-05-08 16:15:00,2026-05-08,16,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,138,42,86,3,7,33.19,84.31,Clear,116.35,High,119.01,Severe,3,Motorcycle-Dominant Traffic,Normal,0.0739
+2026-05-08 16:30:00,2026-05-08,16,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,142,43,91,4,4,29.54,76.03,Cloudy,107.96,High,107.62,High,3,Motorcycle-Dominant Traffic,Normal,0.1057
+2026-05-08 16:45:00,2026-05-08,16,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,178,46,112,5,15,36.96,100.0,Foggy,178.0,Severe,177.43,Severe,1,Motorcycle-Dominant Traffic,Anomaly,-0.0123
+2026-05-08 17:00:00,2026-05-08,17,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,144,40,90,7,7,16.44,80.48,Rainy,115.89,High,113.74,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0934
+2026-05-08 17:15:00,2026-05-08,17,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,149,39,93,5,12,26.81,78.61,Cloudy,117.13,High,117.13,Severe,1,Motorcycle-Dominant Traffic,Normal,0.107
+2026-05-08 17:30:00,2026-05-08,17,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,134,36,70,2,26,33.78,77.6,Clear,103.98,High,103.51,High,3,Motorcycle-Dominant Traffic,Normal,0.1031
+2026-05-08 17:45:00,2026-05-08,17,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,112,35,70,4,3,29.2,66.07,Rainy,74.0,High,73.76,High,3,Motorcycle-Dominant Traffic,Normal,0.1385
+2026-05-08 18:00:00,2026-05-08,18,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,158,47,86,6,19,20.95,82.03,Foggy,129.61,High,130.01,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1015
+2026-05-08 18:15:00,2026-05-08,18,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,195,60,108,11,16,9.67,100.0,Rainy,195.0,Severe,194.93,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0688
+2026-05-08 18:30:00,2026-05-08,18,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,233,70,121,8,34,4.86,93.58,Rainy,218.04,Severe,218.09,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0337
+2026-05-08 18:45:00,2026-05-08,18,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,190,53,110,7,20,16.71,100.0,Cloudy,190.0,Severe,190.12,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0713
+2026-05-08 19:00:00,2026-05-08,19,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,167,46,94,7,20,14.15,95.53,Rainy,159.54,Severe,160.71,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0754
+2026-05-08 19:15:00,2026-05-08,19,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,177,53,112,5,7,5.0,96.73,Rainy,171.21,Severe,171.89,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0082
+2026-05-08 19:30:00,2026-05-08,19,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,195,50,111,11,23,11.69,100.0,Foggy,195.0,Severe,194.88,Severe,1,Motorcycle-Dominant Traffic,Normal,0.077
+2026-05-08 19:45:00,2026-05-08,19,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,139,41,74,5,19,20.3,80.39,Rainy,111.74,High,112.18,Severe,1,Motorcycle-Dominant Traffic,Normal,0.105
+2026-05-08 20:00:00,2026-05-08,20,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,69,17,42,2,8,36.13,44.22,Foggy,30.51,Medium,30.84,Low,0,Mixed Traffic,Normal,0.1187
+2026-05-08 20:15:00,2026-05-08,20,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,81,23,43,1,14,50.43,37.88,Cloudy,30.68,Low,33.08,Low,0,Motorcycle-Dominant Traffic,Normal,0.068
+2026-05-08 20:30:00,2026-05-08,20,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,67,17,36,2,12,48.38,38.31,Cloudy,25.67,Low,25.77,Low,0,Light Traffic,Normal,0.1091
+2026-05-08 20:45:00,2026-05-08,20,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,303,87,181,9,26,10.9,95.49,Clear,289.33,Severe,291.07,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0947
+2026-05-08 21:00:00,2026-05-08,21,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,85,25,48,4,8,30.09,42.4,Rainy,36.04,Medium,36.14,Medium,3,Motorcycle-Dominant Traffic,Normal,0.0944
+2026-05-08 21:15:00,2026-05-08,21,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,71,18,45,2,6,48.07,43.27,Clear,30.72,Medium,30.36,Low,0,Motorcycle-Dominant Traffic,Normal,0.1091
+2026-05-08 21:30:00,2026-05-08,21,Friday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,65,21,35,2,7,49.95,31.41,Clear,20.42,Low,20.28,Low,0,Light Traffic,Normal,0.1017
+2026-05-08 21:45:00,2026-05-08,21,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,70,24,35,2,9,44.55,39.8,Clear,27.86,Medium,27.71,Low,0,Motorcycle-Dominant Traffic,Normal,0.1261
+2026-05-08 22:00:00,2026-05-08,22,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,55,14,32,2,7,44.03,28.05,Rainy,15.43,Medium,15.22,Low,0,Light Traffic,Normal,0.1362
+2026-05-08 22:15:00,2026-05-08,22,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,48,15,30,2,1,46.2,28.26,Cloudy,13.56,Low,13.97,Low,0,Light Traffic,Normal,0.137
+2026-05-08 22:30:00,2026-05-08,22,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,18,5,11,0,2,57.97,5.43,Clear,0.98,Low,0.98,Low,0,Light Traffic,Anomaly,-0.0428
+2026-05-08 22:45:00,2026-05-08,22,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,39,11,23,1,4,47.47,22.23,Foggy,8.67,Low,8.53,Low,0,Light Traffic,Normal,0.1313
+2026-05-08 23:00:00,2026-05-08,23,Friday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,30,10,15,0,5,49.47,15.22,Clear,4.57,Low,4.78,Low,0,Light Traffic,Normal,0.0967
+2026-05-08 23:15:00,2026-05-08,23,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,25,7,15,1,2,63.99,12.77,Clear,3.19,Low,3.41,Low,0,Light Traffic,Anomaly,-0.0013
+2026-05-08 23:30:00,2026-05-08,23,Friday,LOC_004,Jl. Merdeka,2.3402,99.0752,47,15,26,1,5,45.57,26.95,Rainy,12.67,Low,12.69,Low,0,Light Traffic,Normal,0.1248
+2026-05-08 23:45:00,2026-05-08,23,Friday,LOC_002,Jl. Sudirman,2.3348,99.0701,51,17,28,1,5,51.19,23.17,Foggy,11.82,Low,11.72,Low,0,Light Traffic,Normal,0.1143
+2026-05-09 00:00:00,2026-05-09,0,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,66,16,40,2,8,36.96,31.76,Rainy,20.96,Medium,21.45,Low,0,Mixed Traffic,Normal,0.0872
+2026-05-09 00:15:00,2026-05-09,0,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,26,8,16,1,1,58.25,15.66,Clear,4.07,Low,4.02,Low,0,Light Traffic,Normal,0.0631
+2026-05-09 00:30:00,2026-05-09,0,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,31,8,19,1,3,62.68,13.84,Clear,4.29,Low,4.45,Low,0,Light Traffic,Normal,0.0369
+2026-05-09 00:45:00,2026-05-09,0,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,23,6,14,1,2,62.77,10.91,Cloudy,2.51,Low,2.44,Low,0,Light Traffic,Anomaly,-0.0189
+2026-05-09 01:00:00,2026-05-09,1,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,37,10,19,1,7,48.19,21.15,Clear,7.83,Low,7.94,Low,0,Light Traffic,Normal,0.1263
+2026-05-09 01:15:00,2026-05-09,1,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,32,8,20,1,3,47.48,26.77,Foggy,8.57,Low,9.07,Low,0,Light Traffic,Normal,0.0956
+2026-05-09 01:30:00,2026-05-09,1,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,37,9,21,1,6,56.37,19.15,Foggy,7.09,Low,7.28,Low,0,Light Traffic,Normal,0.109
+2026-05-09 01:45:00,2026-05-09,1,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,31,10,17,1,3,60.82,17.24,Clear,5.34,Low,5.29,Low,0,Light Traffic,Normal,0.0697
+2026-05-09 02:00:00,2026-05-09,2,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,54,18,33,2,1,58.05,18.21,Clear,9.83,Low,10.02,Low,0,Light Traffic,Normal,0.057
+2026-05-09 02:15:00,2026-05-09,2,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,30,9,19,0,2,54.26,22.31,Cloudy,6.69,Low,6.6,Low,0,Light Traffic,Normal,0.0967
+2026-05-09 02:30:00,2026-05-09,2,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,47,15,26,1,5,44.26,52.99,Foggy,24.91,Medium,24.75,Low,0,Light Traffic,Normal,0.0658
+2026-05-09 02:45:00,2026-05-09,2,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,74,25,37,2,10,37.43,31.93,Rainy,23.63,Medium,23.37,Low,3,Motorcycle-Dominant Traffic,Normal,0.088
+2026-05-09 03:00:00,2026-05-09,3,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,44,11,23,1,9,49.18,23.68,Rainy,10.42,Low,10.43,Low,0,Light Traffic,Normal,0.1251
+2026-05-09 03:15:00,2026-05-09,3,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,65,17,34,2,12,48.05,38.57,Clear,25.07,Low,25.15,Low,0,Light Traffic,Normal,0.1062
+2026-05-09 03:30:00,2026-05-09,3,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,45,15,23,1,6,48.98,20.14,Foggy,9.06,Low,8.97,Low,0,Light Traffic,Normal,0.122
+2026-05-09 03:45:00,2026-05-09,3,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,60,15,31,1,13,42.08,35.13,Foggy,21.08,Medium,21.18,Low,0,Light Traffic,Normal,0.1285
+2026-05-09 04:00:00,2026-05-09,4,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,75,18,42,3,12,43.39,40.87,Clear,30.65,Medium,30.51,Low,3,Motorcycle-Dominant Traffic,Normal,0.1268
+2026-05-09 04:15:00,2026-05-09,4,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,41,12,23,1,5,59.14,14.95,Rainy,6.13,Low,6.21,Low,0,Light Traffic,Normal,0.0578
+2026-05-09 04:30:00,2026-05-09,4,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,8,2,4,0,2,62.28,5.0,Cloudy,0.4,Low,0.79,Low,0,Light Traffic,Anomaly,-0.0916
+2026-05-09 04:45:00,2026-05-09,4,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,57,16,30,3,8,43.19,28.54,Rainy,16.27,Medium,16.08,Low,0,Light Traffic,Normal,0.1307
+2026-05-09 05:00:00,2026-05-09,5,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,65,18,35,1,11,37.33,35.31,Clear,22.95,Medium,22.6,Low,0,Mixed Traffic,Normal,0.0992
+2026-05-09 05:15:00,2026-05-09,5,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,111,37,65,2,7,29.43,64.46,Rainy,71.55,High,71.72,High,3,Motorcycle-Dominant Traffic,Normal,0.1416
+2026-05-09 05:30:00,2026-05-09,5,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,114,39,69,3,3,28.57,73.28,Foggy,83.54,High,82.69,High,3,Motorcycle-Dominant Traffic,Normal,0.1302
+2026-05-09 05:45:00,2026-05-09,5,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,107,28,60,6,13,38.23,65.34,Clear,69.91,High,69.76,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1099
+2026-05-09 06:00:00,2026-05-09,6,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,153,48,88,6,11,20.83,91.43,Rainy,139.89,Severe,139.55,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0952
+2026-05-09 06:15:00,2026-05-09,6,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,144,41,75,4,24,34.74,78.26,Clear,112.69,High,111.96,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0785
+2026-05-09 06:30:00,2026-05-09,6,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,127,36,74,6,11,26.94,66.76,Foggy,84.79,High,84.84,High,3,Motorcycle-Dominant Traffic,Normal,0.1353
+2026-05-09 06:45:00,2026-05-09,6,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,166,45,95,3,23,18.16,100.0,Foggy,166.0,Severe,163.54,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0711
+2026-05-09 07:00:00,2026-05-09,7,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,145,48,84,3,10,20.52,85.84,Rainy,124.47,Severe,124.34,Severe,1,Motorcycle-Dominant Traffic,Normal,0.098
+2026-05-09 07:15:00,2026-05-09,7,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,192,61,112,6,13,8.63,100.0,Rainy,192.0,Severe,191.42,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0773
+2026-05-09 07:30:00,2026-05-09,7,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,201,69,107,11,14,5.6,100.0,Rainy,201.0,Severe,201.33,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0349
+2026-05-09 07:45:00,2026-05-09,7,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,114,39,71,4,0,37.91,52.8,Clear,60.19,Medium,59.97,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1132
+2026-05-09 08:00:00,2026-05-09,8,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,156,39,95,3,19,21.72,78.8,Rainy,122.93,High,124.03,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1023
+2026-05-09 08:15:00,2026-05-09,8,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,113,33,61,3,16,34.36,57.94,Clear,65.47,Medium,64.87,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1436
+2026-05-09 08:30:00,2026-05-09,8,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,139,42,78,8,11,23.71,81.12,Rainy,112.76,High,114.25,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1196
+2026-05-09 08:45:00,2026-05-09,8,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,133,41,80,3,9,23.92,74.82,Foggy,99.51,High,99.47,High,3,Motorcycle-Dominant Traffic,Normal,0.129
+2026-05-09 09:00:00,2026-05-09,9,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,118,39,62,2,15,34.92,64.86,Cloudy,76.53,Medium,76.45,High,3,Motorcycle-Dominant Traffic,Normal,0.1343
+2026-05-09 09:15:00,2026-05-09,9,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,142,37,75,8,22,34.33,71.25,Clear,101.18,High,100.48,High,1,Motorcycle-Dominant Traffic,Normal,0.087
+2026-05-09 09:30:00,2026-05-09,9,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,83,22,45,2,14,44.76,54.36,Clear,45.12,Medium,45.51,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1018
+2026-05-09 09:45:00,2026-05-09,9,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,108,30,57,3,18,32.48,63.66,Cloudy,68.75,Medium,69.31,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1407
+2026-05-09 10:00:00,2026-05-09,10,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,97,29,52,4,12,35.89,54.4,Rainy,52.77,Medium,52.55,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1482
+2026-05-09 10:15:00,2026-05-09,10,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,120,38,66,3,13,27.62,64.98,Rainy,77.98,High,78.04,High,3,Motorcycle-Dominant Traffic,Normal,0.1431
+2026-05-09 10:30:00,2026-05-09,10,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,80,25,43,4,8,38.57,49.13,Foggy,39.3,Medium,39.57,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1347
+2026-05-09 10:45:00,2026-05-09,10,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,90,26,48,4,12,39.23,44.23,Foggy,39.81,Medium,38.69,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1329
+2026-05-09 11:00:00,2026-05-09,11,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,93,30,48,3,12,42.55,50.66,Clear,47.11,Medium,47.34,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1291
+2026-05-09 11:15:00,2026-05-09,11,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,329,101,186,7,35,4.74,94.16,Rainy,309.79,Severe,309.85,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.1237
+2026-05-09 11:30:00,2026-05-09,11,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,76,22,40,2,12,46.11,42.31,Clear,32.16,Medium,31.74,Low,0,Motorcycle-Dominant Traffic,Normal,0.1126
+2026-05-09 11:45:00,2026-05-09,11,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,88,24,48,3,13,36.62,52.99,Rainy,46.63,Medium,46.34,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1427
+2026-05-09 12:00:00,2026-05-09,12,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,145,47,90,3,5,19.45,85.73,Rainy,124.31,Severe,124.08,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0948
+2026-05-09 12:15:00,2026-05-09,12,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,88,27,51,3,7,34.9,49.05,Foggy,43.16,Medium,43.44,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1435
+2026-05-09 12:30:00,2026-05-09,12,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,74,20,41,3,10,41.39,43.13,Foggy,31.92,Medium,31.49,Low,3,Motorcycle-Dominant Traffic,Normal,0.1279
+2026-05-09 12:45:00,2026-05-09,12,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,78,20,48,1,9,33.01,53.54,Cloudy,41.76,Medium,40.23,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1142
+2026-05-09 13:00:00,2026-05-09,13,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,86,28,54,3,1,34.39,45.75,Foggy,39.34,Medium,39.19,Medium,3,Motorcycle-Dominant Traffic,Normal,0.132
+2026-05-09 13:15:00,2026-05-09,13,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,97,33,54,4,6,34.81,57.99,Rainy,56.25,Medium,56.24,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1498
+2026-05-09 13:30:00,2026-05-09,13,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,134,42,72,4,16,23.37,76.05,Foggy,101.91,High,101.57,High,1,Motorcycle-Dominant Traffic,Normal,0.1252
+2026-05-09 13:45:00,2026-05-09,13,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,129,41,64,6,18,28.7,77.03,Rainy,99.37,High,99.75,High,1,Motorcycle-Dominant Traffic,Normal,0.1209
+2026-05-09 14:00:00,2026-05-09,14,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,78,27,46,4,1,43.89,40.63,Cloudy,31.69,Medium,31.59,Low,3,Motorcycle-Dominant Traffic,Normal,0.1258
+2026-05-09 14:15:00,2026-05-09,14,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,105,34,58,5,8,36.96,58.03,Rainy,60.93,Medium,60.76,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1452
+2026-05-09 14:30:00,2026-05-09,14,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,57,17,36,1,3,40.76,52.99,Clear,30.2,Medium,27.71,Low,0,Light Traffic,Normal,0.0802
+2026-05-09 14:45:00,2026-05-09,14,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,119,34,76,4,5,32.73,60.68,Rainy,72.21,Medium,72.36,High,3,Motorcycle-Dominant Traffic,Normal,0.1444
+2026-05-09 15:00:00,2026-05-09,15,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,102,28,55,2,17,36.96,55.06,Rainy,56.16,Medium,55.98,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1463
+2026-05-09 15:15:00,2026-05-09,15,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,70,23,41,3,3,34.38,27.74,Foggy,19.42,Medium,19.41,Low,3,Motorcycle-Dominant Traffic,Normal,0.0609
+2026-05-09 15:30:00,2026-05-09,15,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,94,25,58,3,8,33.25,53.78,Foggy,50.55,Medium,50.56,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1453
+2026-05-09 15:45:00,2026-05-09,15,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,61,15,32,3,11,45.96,37.29,Foggy,22.75,Low,22.79,Low,0,Light Traffic,Normal,0.1175
+2026-05-09 16:00:00,2026-05-09,16,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,190,49,110,9,22,6.45,52.99,Rainy,100.68,Severe,98.79,High,1,Motorcycle-Dominant Traffic,Anomaly,-0.0794
+2026-05-09 16:15:00,2026-05-09,16,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,179,48,94,3,34,18.85,100.0,Foggy,179.0,Severe,177.8,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0752
+2026-05-09 16:30:00,2026-05-09,16,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,141,40,77,6,18,30.9,82.07,Clear,115.72,High,115.66,Severe,1,Motorcycle-Dominant Traffic,Normal,0.097
+2026-05-09 16:45:00,2026-05-09,16,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,213,69,125,10,9,5.0,100.0,Foggy,213.0,Severe,212.53,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0155
+2026-05-09 17:00:00,2026-05-09,17,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,142,44,91,3,4,28.17,88.23,Cloudy,125.29,Severe,125.73,Severe,3,Motorcycle-Dominant Traffic,Normal,0.0732
+2026-05-09 17:15:00,2026-05-09,17,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,194,62,119,10,3,11.66,100.0,Cloudy,194.0,Severe,194.03,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0815
+2026-05-09 17:30:00,2026-05-09,17,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,159,40,102,6,11,23.47,90.94,Foggy,144.59,Severe,144.23,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1027
+2026-05-09 17:45:00,2026-05-09,17,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,169,46,88,6,29,21.43,91.0,Cloudy,153.79,Severe,153.21,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0766
+2026-05-09 18:00:00,2026-05-09,18,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,190,59,99,5,27,14.51,100.0,Cloudy,190.0,Severe,190.12,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0811
+2026-05-09 18:15:00,2026-05-09,18,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,146,47,86,4,9,11.82,75.14,Rainy,109.7,Severe,109.75,High,1,Motorcycle-Dominant Traffic,Normal,0.0434
+2026-05-09 18:30:00,2026-05-09,18,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,96,26,56,5,9,35.59,55.82,Clear,53.59,Medium,53.66,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1476
+2026-05-09 18:45:00,2026-05-09,18,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,157,49,80,8,20,25.38,86.87,Cloudy,136.39,Severe,135.61,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1014
+2026-05-09 19:00:00,2026-05-09,19,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,120,33,63,2,22,31.23,73.46,Rainy,88.15,High,88.26,High,3,Motorcycle-Dominant Traffic,Normal,0.1324
+2026-05-09 19:15:00,2026-05-09,19,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,140,36,72,6,26,22.05,83.15,Foggy,116.41,High,115.26,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1043
+2026-05-09 19:30:00,2026-05-09,19,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,185,58,111,8,8,24.05,100.0,Cloudy,185.0,Severe,184.93,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0506
+2026-05-09 19:45:00,2026-05-09,19,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,189,62,110,11,6,36.96,100.0,Rainy,189.0,Severe,188.94,Severe,1,Motorcycle-Dominant Traffic,Anomaly,-0.0171
+2026-05-09 20:00:00,2026-05-09,20,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,83,27,42,4,10,33.7,53.73,Rainy,44.6,Medium,45.13,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1297
+2026-05-09 20:15:00,2026-05-09,20,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,57,16,32,1,8,49.23,34.59,Cloudy,19.72,Low,19.83,Low,0,Light Traffic,Normal,0.1096
+2026-05-09 20:30:00,2026-05-09,20,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,93,31,50,4,8,41.52,46.87,Clear,43.59,Medium,43.08,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1268
+2026-05-09 20:45:00,2026-05-09,20,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,102,25,62,3,12,29.48,58.47,Foggy,59.64,High,59.47,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1478
+2026-05-09 21:00:00,2026-05-09,21,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,91,26,54,3,8,38.87,49.33,Foggy,44.89,Medium,44.78,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1413
+2026-05-09 21:15:00,2026-05-09,21,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,90,31,56,2,1,45.91,43.85,Clear,39.47,Medium,39.19,Medium,3,Motorcycle-Dominant Traffic,Normal,0.0991
+2026-05-09 21:30:00,2026-05-09,21,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,104,36,54,6,8,31.06,55.24,Rainy,57.45,Medium,57.33,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1486
+2026-05-09 21:45:00,2026-05-09,21,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,52,14,26,2,10,46.0,27.78,Cloudy,14.45,Low,14.13,Low,0,Light Traffic,Normal,0.1334
+2026-05-09 22:00:00,2026-05-09,22,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,39,13,20,2,4,54.53,19.97,Rainy,7.79,Low,7.88,Low,0,Light Traffic,Normal,0.1226
+2026-05-09 22:15:00,2026-05-09,22,Saturday,LOC_004,Jl. Merdeka,2.3402,99.0752,29,7,14,1,7,54.73,20.03,Cloudy,5.81,Low,5.75,Low,0,Light Traffic,Normal,0.1007
+2026-05-09 22:30:00,2026-05-09,22,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,47,15,28,1,3,55.02,32.93,Cloudy,15.48,Low,15.19,Low,0,Light Traffic,Normal,0.0872
+2026-05-09 22:45:00,2026-05-09,22,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,38,10,19,1,8,49.47,21.9,Foggy,8.32,Low,8.35,Low,0,Light Traffic,Normal,0.1303
+2026-05-09 23:00:00,2026-05-09,23,Saturday,LOC_002,Jl. Sudirman,2.3348,99.0701,42,13,26,2,1,36.96,31.98,Foggy,13.43,Medium,13.24,Low,0,Mixed Traffic,Normal,0.0743
+2026-05-09 23:15:00,2026-05-09,23,Saturday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,41,11,24,1,5,45.37,25.22,Rainy,10.34,Low,10.6,Low,0,Light Traffic,Normal,0.1223
+2026-05-09 23:30:00,2026-05-09,23,Saturday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,43,12,23,1,7,50.89,22.56,Clear,9.7,Low,9.62,Low,0,Light Traffic,Normal,0.1263
+2026-05-09 23:45:00,2026-05-09,23,Saturday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,65,17,39,1,8,40.97,34.56,Rainy,22.46,Medium,22.13,Low,0,Light Traffic,Normal,0.1195
+2026-05-10 00:00:00,2026-05-10,0,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,50,14,25,2,9,38.15,36.11,Cloudy,18.06,Medium,18.16,Low,0,Mixed Traffic,Normal,0.0859
+2026-05-10 00:15:00,2026-05-10,0,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,45,14,24,1,6,43.08,21.34,Rainy,9.6,Medium,9.26,Low,0,Light Traffic,Normal,0.11
+2026-05-10 00:30:00,2026-05-10,0,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,57,15,32,3,7,49.45,28.68,Cloudy,16.35,Low,16.17,Low,0,Light Traffic,Normal,0.1175
+2026-05-10 00:45:00,2026-05-10,0,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,73,19,41,3,10,35.68,26.39,Cloudy,19.26,Medium,18.74,Low,3,Motorcycle-Dominant Traffic,Normal,0.0704
+2026-05-10 01:00:00,2026-05-10,1,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,51,15,31,2,3,49.76,27.17,Cloudy,13.86,Low,13.76,Low,0,Light Traffic,Normal,0.1264
+2026-05-10 01:15:00,2026-05-10,1,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,61,18,32,1,10,48.76,37.02,Clear,22.58,Low,22.71,Low,0,Light Traffic,Normal,0.1093
+2026-05-10 01:30:00,2026-05-10,1,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,44,13,26,1,4,48.49,20.45,Rainy,9.0,Low,8.91,Low,0,Light Traffic,Normal,0.1282
+2026-05-10 01:45:00,2026-05-10,1,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,28,8,16,1,3,52.74,13.2,Cloudy,3.7,Low,3.86,Low,0,Light Traffic,Normal,0.0734
+2026-05-10 02:00:00,2026-05-10,2,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,51,14,30,2,5,51.62,22.16,Clear,11.3,Low,11.24,Low,0,Light Traffic,Normal,0.11
+2026-05-10 02:15:00,2026-05-10,2,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,70,18,41,4,7,41.42,33.61,Rainy,23.53,Medium,23.47,Low,3,Motorcycle-Dominant Traffic,Normal,0.1141
+2026-05-10 02:30:00,2026-05-10,2,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,44,13,27,1,3,44.15,18.57,Foggy,8.17,Medium,8.33,Low,0,Light Traffic,Normal,0.11
+2026-05-10 02:45:00,2026-05-10,2,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,39,11,25,1,2,45.1,24.99,Foggy,9.75,Low,10.05,Low,0,Light Traffic,Normal,0.1199
+2026-05-10 03:00:00,2026-05-10,3,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,20,5,11,0,4,56.2,5.0,Clear,1.0,Low,1.06,Low,0,Light Traffic,Anomaly,-0.0325
+2026-05-10 03:15:00,2026-05-10,3,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,35,11,17,1,6,47.49,18.45,Rainy,6.46,Low,6.34,Low,0,Light Traffic,Normal,0.1159
+2026-05-10 03:30:00,2026-05-10,3,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,60,18,30,1,11,49.09,39.76,Foggy,23.86,Low,24.17,Low,0,Light Traffic,Normal,0.1111
+2026-05-10 03:45:00,2026-05-10,3,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,29,8,18,1,2,55.38,13.69,Rainy,3.97,Low,4.31,Low,0,Light Traffic,Normal,0.0897
+2026-05-10 04:00:00,2026-05-10,4,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,53,13,33,3,4,48.6,31.89,Cloudy,16.9,Low,16.95,Low,0,Light Traffic,Normal,0.123
+2026-05-10 04:15:00,2026-05-10,4,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,52,17,27,2,6,46.33,28.7,Foggy,14.92,Low,14.75,Low,0,Light Traffic,Normal,0.1346
+2026-05-10 04:30:00,2026-05-10,4,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,71,17,42,4,8,51.99,39.63,Clear,28.14,Low,27.87,Low,0,Motorcycle-Dominant Traffic,Normal,0.0751
+2026-05-10 04:45:00,2026-05-10,4,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,46,14,29,2,1,50.6,24.04,Cloudy,11.06,Low,11.19,Low,0,Light Traffic,Normal,0.1201
+2026-05-10 05:00:00,2026-05-10,5,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,72,22,36,2,12,31.32,39.56,Cloudy,28.48,Medium,28.32,Low,3,Motorcycle-Dominant Traffic,Normal,0.083
+2026-05-10 05:15:00,2026-05-10,5,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,119,37,62,3,17,28.41,70.9,Rainy,84.37,High,84.99,High,3,Motorcycle-Dominant Traffic,Normal,0.14
+2026-05-10 05:30:00,2026-05-10,5,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,90,24,53,4,9,34.64,34.5,Rainy,31.05,Medium,30.73,Low,3,Motorcycle-Dominant Traffic,Normal,0.0846
+2026-05-10 05:45:00,2026-05-10,5,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,107,28,65,4,10,26.78,59.93,Rainy,64.13,High,64.2,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1331
+2026-05-10 06:00:00,2026-05-10,6,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,203,52,127,4,20,5.22,100.0,Rainy,203.0,Severe,203.78,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0291
+2026-05-10 06:15:00,2026-05-10,6,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,155,49,80,3,23,12.26,92.52,Rainy,143.41,Severe,144.34,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0619
+2026-05-10 06:30:00,2026-05-10,6,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,270,94,153,5,18,5.59,97.37,Rainy,262.9,Severe,261.37,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0621
+2026-05-10 06:45:00,2026-05-10,6,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,148,43,76,3,26,32.12,86.21,Clear,127.59,Severe,127.3,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0703
+2026-05-10 07:00:00,2026-05-10,7,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,142,48,88,5,1,22.6,79.14,Cloudy,112.38,High,113.42,Severe,1,Motorcycle-Dominant Traffic,Normal,0.119
+2026-05-10 07:15:00,2026-05-10,7,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,150,50,83,5,12,20.12,67.45,Cloudy,101.18,High,88.21,High,1,Motorcycle-Dominant Traffic,Normal,0.0721
+2026-05-10 07:30:00,2026-05-10,7,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,163,46,91,6,20,17.42,83.03,Rainy,135.34,High,134.4,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0826
+2026-05-10 07:45:00,2026-05-10,7,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,141,42,87,4,8,28.69,76.33,Clear,107.63,High,107.32,High,3,Motorcycle-Dominant Traffic,Normal,0.1128
+2026-05-10 08:00:00,2026-05-10,8,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,150,44,78,4,24,28.56,83.07,Clear,124.6,High,124.56,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0968
+2026-05-10 08:15:00,2026-05-10,8,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,188,57,109,6,16,12.03,100.0,Rainy,188.0,Severe,188.14,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0904
+2026-05-10 08:30:00,2026-05-10,8,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,130,38,69,6,17,23.67,75.53,Foggy,98.19,High,98.36,High,1,Motorcycle-Dominant Traffic,Normal,0.1252
+2026-05-10 08:45:00,2026-05-10,8,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,124,36,62,6,20,37.03,59.32,Clear,73.56,Medium,74.7,High,3,Motorcycle-Dominant Traffic,Normal,0.1082
+2026-05-10 09:00:00,2026-05-10,9,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,127,42,64,3,18,22.03,68.85,Rainy,87.44,High,87.17,High,3,Motorcycle-Dominant Traffic,Normal,0.1151
+2026-05-10 09:15:00,2026-05-10,9,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,139,39,84,7,9,23.62,76.3,Foggy,106.06,High,105.73,High,1,Motorcycle-Dominant Traffic,Normal,0.1199
+2026-05-10 09:30:00,2026-05-10,9,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,137,47,72,8,10,24.69,79.51,Foggy,108.93,High,112.0,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1145
+2026-05-10 09:45:00,2026-05-10,9,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,126,34,73,6,13,30.98,64.07,Foggy,80.73,Medium,80.08,High,3,Motorcycle-Dominant Traffic,Normal,0.1397
+2026-05-10 10:00:00,2026-05-10,10,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,102,28,58,2,14,41.98,52.49,Clear,53.54,Medium,53.65,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1242
+2026-05-10 10:15:00,2026-05-10,10,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,74,22,45,1,6,43.24,40.4,Foggy,29.9,Medium,29.88,Low,0,Motorcycle-Dominant Traffic,Normal,0.1259
+2026-05-10 10:30:00,2026-05-10,10,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,82,23,46,1,12,40.62,47.04,Foggy,38.57,Medium,38.78,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1273
+2026-05-10 10:45:00,2026-05-10,10,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,67,20,35,2,10,47.37,52.99,Cloudy,35.5,Medium,34.73,Low,0,Light Traffic,Normal,0.0759
+2026-05-10 11:00:00,2026-05-10,11,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,102,26,51,2,23,45.87,53.28,Rainy,54.35,Medium,54.56,Medium,3,Motorcycle-Dominant Traffic,Normal,0.0858
+2026-05-10 11:15:00,2026-05-10,11,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,109,28,68,3,10,27.0,53.8,Rainy,58.64,High,58.68,Medium,3,Motorcycle-Dominant Traffic,Normal,0.123
+2026-05-10 11:30:00,2026-05-10,11,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,95,33,53,2,7,28.51,50.11,Foggy,47.6,High,47.75,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1306
+2026-05-10 11:45:00,2026-05-10,11,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,332,99,204,10,19,7.28,93.17,Rainy,309.32,Severe,311.0,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.1246
+2026-05-10 12:00:00,2026-05-10,12,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,94,25,55,2,12,37.44,55.14,Clear,51.83,Medium,51.85,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1435
+2026-05-10 12:15:00,2026-05-10,12,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,95,25,51,2,17,42.23,59.65,Cloudy,56.67,Medium,56.87,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1123
+2026-05-10 12:30:00,2026-05-10,12,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,61,20,32,1,8,51.65,34.89,Clear,21.28,Low,21.66,Low,0,Light Traffic,Normal,0.1011
+2026-05-10 12:45:00,2026-05-10,12,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,91,31,50,4,6,32.96,44.46,Rainy,40.46,Medium,40.36,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1317
+2026-05-10 13:00:00,2026-05-10,13,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,93,24,53,3,13,38.25,57.71,Cloudy,53.67,Medium,53.77,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1382
+2026-05-10 13:15:00,2026-05-10,13,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,106,28,65,3,10,34.39,57.02,Clear,60.44,Medium,60.13,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1555
+2026-05-10 13:30:00,2026-05-10,13,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,104,29,54,2,19,36.96,53.3,Foggy,55.43,Medium,55.56,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1447
+2026-05-10 13:45:00,2026-05-10,13,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,120,39,77,4,0,32.31,67.46,Foggy,80.95,High,80.85,High,3,Motorcycle-Dominant Traffic,Normal,0.1446
+2026-05-10 14:00:00,2026-05-10,14,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,68,22,37,3,6,45.85,42.23,Cloudy,28.72,Medium,29.04,Low,0,Light Traffic,Normal,0.1061
+2026-05-10 14:15:00,2026-05-10,14,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,91,31,57,2,1,40.9,52.08,Rainy,47.39,Medium,47.29,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1374
+2026-05-10 14:30:00,2026-05-10,14,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,91,30,47,4,10,44.91,50.18,Cloudy,45.66,Medium,45.51,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1184
+2026-05-10 14:45:00,2026-05-10,14,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,58,16,30,1,11,48.89,21.27,Foggy,12.34,Low,11.72,Low,0,Light Traffic,Normal,0.0962
+2026-05-10 15:00:00,2026-05-10,15,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,93,25,58,2,8,38.24,50.75,Rainy,47.2,Medium,47.58,Medium,3,Motorcycle-Dominant Traffic,Normal,0.145
+2026-05-10 15:15:00,2026-05-10,15,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,62,20,40,2,0,53.43,52.99,Clear,32.85,Medium,32.4,Low,0,Light Traffic,Normal,0.0302
+2026-05-10 15:30:00,2026-05-10,15,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,116,35,59,5,17,29.18,58.15,Foggy,67.45,High,67.5,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1396
+2026-05-10 15:45:00,2026-05-10,15,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,107,35,59,2,11,33.21,65.71,Foggy,70.31,High,70.51,High,3,Motorcycle-Dominant Traffic,Normal,0.1283
+2026-05-10 16:00:00,2026-05-10,16,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,160,49,84,8,19,25.88,52.99,Cloudy,84.78,High,84.59,High,1,Motorcycle-Dominant Traffic,Normal,0.0548
+2026-05-10 16:15:00,2026-05-10,16,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,190,50,107,6,27,9.01,100.0,Rainy,190.0,Severe,189.95,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0824
+2026-05-10 16:30:00,2026-05-10,16,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,163,45,99,8,11,23.31,86.92,Clear,141.68,Severe,140.66,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1021
+2026-05-10 16:45:00,2026-05-10,16,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,110,31,67,4,8,25.61,54.24,Foggy,59.66,High,59.51,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1162
+2026-05-10 17:00:00,2026-05-10,17,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,192,58,106,8,20,11.46,100.0,Foggy,192.0,Severe,191.36,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0872
+2026-05-10 17:15:00,2026-05-10,17,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,114,36,72,4,2,35.62,63.68,Clear,72.6,Medium,72.99,High,3,Motorcycle-Dominant Traffic,Normal,0.1382
+2026-05-10 17:30:00,2026-05-10,17,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,198,56,115,4,23,19.07,100.0,Foggy,198.0,Severe,198.81,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0349
+2026-05-10 17:45:00,2026-05-10,17,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,151,38,76,7,30,22.1,99.45,Rainy,150.17,Severe,148.67,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0641
+2026-05-10 18:00:00,2026-05-10,18,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,154,41,80,5,28,17.11,80.65,Foggy,124.2,High,127.29,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0928
+2026-05-10 18:15:00,2026-05-10,18,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,116,36,69,6,5,33.06,63.74,Clear,73.94,Medium,73.63,High,3,Motorcycle-Dominant Traffic,Normal,0.1431
+2026-05-10 18:30:00,2026-05-10,18,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,127,38,63,2,24,36.18,74.49,Clear,94.6,High,95.31,High,3,Motorcycle-Dominant Traffic,Normal,0.1025
+2026-05-10 18:45:00,2026-05-10,18,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,162,49,104,6,3,22.12,52.99,Cloudy,85.84,High,85.6,High,1,Motorcycle-Dominant Traffic,Normal,0.0246
+2026-05-10 19:00:00,2026-05-10,19,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,156,46,83,5,22,15.06,77.54,Rainy,120.96,High,118.55,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0596
+2026-05-10 19:15:00,2026-05-10,19,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,209,62,109,11,27,5.0,100.0,Foggy,209.0,Severe,206.56,Severe,2,Motorcycle-Dominant Traffic,Normal,0.0211
+2026-05-10 19:30:00,2026-05-10,19,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,188,62,118,8,0,15.15,99.88,Foggy,187.77,Severe,188.62,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0813
+2026-05-10 19:45:00,2026-05-10,19,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,191,56,102,8,25,15.75,100.0,Rainy,191.0,Severe,190.75,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0726
+2026-05-10 20:00:00,2026-05-10,20,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,90,26,46,4,14,35.73,49.93,Clear,44.94,Medium,44.77,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1473
+2026-05-10 20:15:00,2026-05-10,20,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,58,17,31,3,7,53.42,33.98,Clear,19.71,Low,19.54,Low,0,Light Traffic,Normal,0.0953
+2026-05-10 20:30:00,2026-05-10,20,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,79,26,40,2,11,36.16,44.54,Rainy,35.19,Medium,35.36,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1376
+2026-05-10 20:45:00,2026-05-10,20,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,63,16,40,2,5,40.03,40.23,Rainy,25.34,Medium,26.41,Low,0,Light Traffic,Normal,0.1122
+2026-05-10 21:00:00,2026-05-10,21,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,79,26,44,3,6,36.89,45.42,Cloudy,35.88,Medium,35.76,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1356
+2026-05-10 21:15:00,2026-05-10,21,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,97,24,55,2,16,30.03,52.79,Foggy,51.21,Medium,51.3,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1416
+2026-05-10 21:30:00,2026-05-10,21,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,92,31,55,5,1,35.78,58.83,Clear,54.12,Medium,53.65,Medium,3,Motorcycle-Dominant Traffic,Normal,0.142
+2026-05-10 21:45:00,2026-05-10,21,Sunday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,96,29,56,2,9,41.34,47.99,Clear,46.07,Medium,45.92,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1185
+2026-05-10 22:00:00,2026-05-10,22,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,61,18,39,1,3,51.05,39.91,Rainy,24.35,Low,24.31,Low,0,Light Traffic,Normal,0.0932
+2026-05-10 22:15:00,2026-05-10,22,Sunday,LOC_004,Jl. Merdeka,2.3402,99.0752,36,10,23,1,2,44.43,28.52,Foggy,10.27,Medium,10.33,Low,0,Light Traffic,Normal,0.1042
+2026-05-10 22:30:00,2026-05-10,22,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,222,73,118,12,19,5.36,90.52,Cloudy,200.95,Severe,204.84,Severe,2,Motorcycle-Dominant Traffic,Anomaly,-0.0281
+2026-05-10 22:45:00,2026-05-10,22,Sunday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,36,10,18,0,8,52.12,22.51,Rainy,8.1,Low,8.09,Low,0,Light Traffic,Normal,0.122
+2026-05-10 23:00:00,2026-05-10,23,Sunday,LOC_002,Jl. Sudirman,2.3348,99.0701,48,16,29,1,2,47.31,27.04,Foggy,12.98,Low,13.19,Low,0,Light Traffic,Normal,0.1344
+2026-05-10 23:15:00,2026-05-10,23,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,40,12,20,1,7,46.84,15.2,Rainy,6.08,Low,6.09,Low,0,Light Traffic,Normal,0.0949
+2026-05-10 23:30:00,2026-05-10,23,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,51,16,28,2,5,46.33,24.66,Rainy,12.58,Low,12.63,Low,0,Light Traffic,Normal,0.1298
+2026-05-10 23:45:00,2026-05-10,23,Sunday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,28,9,14,0,5,50.97,15.21,Foggy,4.26,Low,4.18,Low,0,Light Traffic,Normal,0.0858
+2026-05-11 00:00:00,2026-05-11,0,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,61,15,32,2,12,39.02,36.83,Rainy,22.47,Medium,22.53,Low,0,Mixed Traffic,Normal,0.0983
+2026-05-11 00:15:00,2026-05-11,0,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,38,12,24,1,1,36.96,23.38,Clear,8.88,Medium,8.93,Low,0,Mixed Traffic,Normal,0.0607
+2026-05-11 00:30:00,2026-05-11,0,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,24,7,15,1,1,51.2,11.11,Rainy,2.67,Low,2.73,Low,0,Light Traffic,Normal,0.032
+2026-05-11 00:45:00,2026-05-11,0,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,47,15,24,1,7,51.39,24.07,Foggy,11.31,Low,11.19,Low,0,Light Traffic,Normal,0.1226
+2026-05-11 01:00:00,2026-05-11,1,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,64,16,40,1,7,41.49,39.55,Rainy,25.31,Medium,25.24,Low,0,Light Traffic,Normal,0.1234
+2026-05-11 01:15:00,2026-05-11,1,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,40,11,25,1,3,51.07,19.58,Foggy,7.83,Low,7.87,Low,0,Light Traffic,Normal,0.1271
+2026-05-11 01:30:00,2026-05-11,1,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,26,7,15,0,4,55.46,5.0,Rainy,1.3,Low,1.58,Low,0,Light Traffic,Anomaly,-0.0108
+2026-05-11 01:45:00,2026-05-11,1,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,46,14,26,0,6,50.68,30.42,Foggy,13.99,Low,13.56,Low,0,Light Traffic,Normal,0.1151
+2026-05-11 02:00:00,2026-05-11,2,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,39,13,23,1,2,48.65,16.71,Foggy,6.52,Low,6.56,Low,0,Light Traffic,Normal,0.1144
+2026-05-11 02:15:00,2026-05-11,2,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,35,9,20,1,5,55.45,28.45,Cloudy,9.96,Low,10.08,Low,0,Light Traffic,Normal,0.0871
+2026-05-11 02:30:00,2026-05-11,2,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,31,7,18,0,6,49.84,19.52,Clear,6.05,Low,6.11,Low,0,Light Traffic,Normal,0.1117
+2026-05-11 02:45:00,2026-05-11,2,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,42,12,22,1,7,53.02,24.4,Clear,10.25,Low,10.21,Low,0,Light Traffic,Normal,0.1123
+2026-05-11 03:00:00,2026-05-11,3,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,26,6,14,0,6,57.42,13.3,Rainy,3.46,Low,3.59,Low,0,Light Traffic,Normal,0.0558
+2026-05-11 03:15:00,2026-05-11,3,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,48,13,26,2,7,46.61,31.3,Cloudy,15.02,Low,15.22,Low,0,Light Traffic,Normal,0.1279
+2026-05-11 03:30:00,2026-05-11,3,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,27,8,17,1,1,53.21,6.45,Cloudy,1.74,Low,1.94,Low,0,Light Traffic,Normal,0.0028
+2026-05-11 03:45:00,2026-05-11,3,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,49,14,30,1,4,47.18,21.83,Foggy,10.7,Low,10.83,Low,0,Light Traffic,Normal,0.1216
+2026-05-11 04:00:00,2026-05-11,4,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,47,15,29,1,2,51.85,21.89,Cloudy,10.29,Low,10.24,Low,0,Light Traffic,Normal,0.1206
+2026-05-11 04:15:00,2026-05-11,4,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,52,15,28,2,7,48.1,24.24,Cloudy,12.6,Low,12.29,Low,0,Light Traffic,Normal,0.1206
+2026-05-11 04:30:00,2026-05-11,4,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,88,23,54,4,7,30.71,51.55,Rainy,45.36,Medium,45.21,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1318
+2026-05-11 04:45:00,2026-05-11,4,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,56,16,33,1,6,46.23,41.45,Foggy,23.21,Medium,24.04,Low,0,Light Traffic,Normal,0.1029
+2026-05-11 05:00:00,2026-05-11,5,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,56,17,35,1,3,52.81,39.02,Cloudy,21.85,Low,22.19,Low,0,Light Traffic,Normal,0.0813
+2026-05-11 05:15:00,2026-05-11,5,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,71,21,43,3,4,36.85,31.65,Rainy,22.47,Medium,22.65,Low,3,Motorcycle-Dominant Traffic,Normal,0.0843
+2026-05-11 05:30:00,2026-05-11,5,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,116,39,59,3,15,36.96,61.71,Rainy,71.58,Medium,71.36,High,3,Motorcycle-Dominant Traffic,Normal,0.134
+2026-05-11 05:45:00,2026-05-11,5,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,220,71,120,12,17,7.34,95.03,Rainy,209.07,Severe,210.21,Severe,2,Motorcycle-Dominant Traffic,Normal,0.0032
+2026-05-11 06:00:00,2026-05-11,6,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,114,37,62,6,9,41.59,59.51,Cloudy,67.84,Medium,67.41,Medium,3,Motorcycle-Dominant Traffic,Normal,0.0923
+2026-05-11 06:15:00,2026-05-11,6,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,154,40,94,3,17,22.87,82.82,Rainy,127.54,High,129.31,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1121
+2026-05-11 06:30:00,2026-05-11,6,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,143,43,83,6,11,24.15,82.02,Rainy,117.29,High,117.33,Severe,1,Motorcycle-Dominant Traffic,Normal,0.1161
+2026-05-11 06:45:00,2026-05-11,6,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,113,36,61,2,14,27.87,56.46,Cloudy,63.8,High,63.79,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1347
+2026-05-11 07:00:00,2026-05-11,7,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,110,29,68,5,8,29.82,62.5,Rainy,68.75,High,69.12,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1444
+2026-05-11 07:15:00,2026-05-11,7,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,136,43,83,4,6,20.58,80.11,Rainy,108.95,High,110.3,Severe,3,Motorcycle-Dominant Traffic,Normal,0.1012
+2026-05-11 07:30:00,2026-05-11,7,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,188,52,104,7,25,11.83,100.0,Rainy,188.0,Severe,188.15,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0924
+2026-05-11 07:45:00,2026-05-11,7,Monday,LOC_003,Jl. Gatot Subroto,2.3375,99.0729,118,30,74,3,11,38.93,68.32,Clear,80.62,High,79.94,High,3,Motorcycle-Dominant Traffic,Normal,0.0963
+2026-05-11 08:00:00,2026-05-11,8,Monday,LOC_005,Jl. Ahmad Yani,2.3429,99.0788,153,44,78,4,27,25.08,89.87,Foggy,137.5,Severe,137.56,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0982
+2026-05-11 08:15:00,2026-05-11,8,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,111,36,56,4,15,26.03,62.61,Rainy,69.5,High,69.89,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1287
+2026-05-11 08:30:00,2026-05-11,8,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,152,50,97,5,0,17.96,79.52,Rainy,120.87,High,121.11,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0873
+2026-05-11 08:45:00,2026-05-11,8,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,184,63,107,3,11,15.34,100.0,Rainy,184.0,Severe,183.81,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0828
+2026-05-11 09:00:00,2026-05-11,9,Monday,LOC_001,Jl. Sisingamangaraja,2.3321,99.0654,192,49,115,11,17,8.96,98.62,Rainy,189.35,Severe,190.35,Severe,1,Motorcycle-Dominant Traffic,Normal,0.0629
+2026-05-11 09:15:00,2026-05-11,9,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,111,31,64,2,14,30.27,67.63,Rainy,75.07,High,75.12,High,3,Motorcycle-Dominant Traffic,Normal,0.1316
+2026-05-11 09:30:00,2026-05-11,9,Monday,LOC_004,Jl. Merdeka,2.3402,99.0752,91,25,47,4,15,37.26,52.73,Cloudy,47.98,Medium,47.52,Medium,3,Motorcycle-Dominant Traffic,Normal,0.1461
+2026-05-11 09:45:00,2026-05-11,9,Monday,LOC_002,Jl. Sudirman,2.3348,99.0701,156,40,85,8,23,13.78,88.81,Rainy,138.54,Severe,139.59,Severe,1,Motorcycle-Dominant Traffic,Normal,0.065

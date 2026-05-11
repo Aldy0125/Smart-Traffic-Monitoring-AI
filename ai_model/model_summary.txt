@@ -1,0 +1,26 @@
+
+SMART TRAFFIC MONITORING AI - MODEL SUMMARY
+
+1. Traffic Congestion Prediction
+Method: Random Forest Regression
+Target: traffic_density
+MAE: 1.08
+RMSE: 2.46
+R2 Score: 1.00
+
+2. Vehicle Pattern Clustering
+Method: K-Means Clustering
+Number of Clusters: 4
+Silhouette Score: 0.38
+
+3. Traffic Anomaly Detection
+Method: Isolation Forest
+Anomaly Count: 50
+Anomaly Percentage: 5.00%
+
+Output Files:
+- prediction_model.pkl
+- clustering_model.pkl
+- anomaly_model.pkl
+- scaler.pkl
+- final_traffic_data.csv
